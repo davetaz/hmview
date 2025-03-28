@@ -111,7 +111,7 @@
         for (const product of products) {
           const sku = product.project_suite_sku || '';
           const title = product.title || '';
-          const imgHTML = product.img ? `<img src="../${product.img}" alt="${sku}">` : '';
+          const imgHTML = product.img ? `<img src="${product.img}" alt="${sku}">` : '';
 
           let scaleDisplay = product.product_item_scale;
           if (scaleDisplay === '0.12') {
