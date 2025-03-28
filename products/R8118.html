@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Product Viewer</title>
+  <link rel="stylesheet" href="../style/dark.css" />
+  <style>
+    .main-container {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+    body {
+      max-width: 90%;
+      margin: auto;
+    }
+    @media (min-width: 1200px) {
+      .main-container {
+        flex-direction: row;
+      }
+
+      .left-column {
+        flex: 0 0 25%;
+        max-width: 25%;
+      }
+
+      .right-column {
+        flex: 0 0 75%;
+        max-width: 75%;
+      }
+    }
+
+    .product-image-container {
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      padding-top: 32px;
+    }
+
+    table img {
+      max-height: 48px;
+    }
+
+    td, th {
+      vertical-align: middle;
+    }
+
+    table {
+      width: 100%;
+    }
+
+    .breadcrumb {
+      font-size: 1.4rem;
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .breadcrumb a {
+      color: #90caf9;
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+  </style>
+  <script type="module">
+    const infoDiv = document.getElementById('productInfo');
+    const cvDiv = document.getElementById('cvTable');
+    const fnDiv = document.getElementById('functionTable');
+    const title = document.getElementById('productTitle');
+
+    const urlParts = window.location.pathname.split('/');
+    const filename = urlParts[urlParts.length - 1];
+    const sku = filename.replace('.html', '');
+
+    fetch('../data/products.json')
+      .then(res => res.json())
+      .then(data => {
+        const product = data.find(p => p.project_suite_sku === sku);
+        if (!product) {
+          document.body.innerHTML = `<p>❌ Product not found</p>`;
+          return;
+        }
+        document.getElementById('breadcrumbSku').textContent = product.project_suite_sku;
+        renderProductInfo(product);
+        renderCVTable(product.cv_values);
+        renderFunctionTable(product.functions);
+      });
+
+    function renderProductInfo(product) {
+      const rows = [
+        ['SKU', product.project_suite_sku],
+        ['Sub-category', product.product_sub_category],
+        ['Scale', product.product_item_scale],
+        ['Steam Unit', product.ASU_steam_unit === 1 ? 'Yes' : 'No']
+      ];
+      const tableRows = rows.map(([label, value]) => `<tr><td>${label}</td><td>${value}</td></tr>`).join('');
+
+      const imageHTML = product.img
+        ? `<div class="product-image-container"><img src="../${product.img}" alt="Product image"></div>`
+        : '';
+
+      infoDiv.innerHTML = `
+        ${imageHTML}
+        <h1 id="productTitle">${product.title}</h1>
+        <table><tbody>${tableRows}</tbody></table>
+      `;
+    }
+
+    function renderCVTable(cvs) {
+      if (!cvs || cvs.length === 0) {
+        cvDiv.innerHTML = `<p>No CV values found.</p>`;
+        return;
+      }
+
+      const rows = cvs.map(cv => `<tr><td>${cv.cv}</td><td>${cv.value}</td></tr>`).join('');
+      cvDiv.innerHTML = `
+        <h2>CV Values</h2>
+        <table>
+          <tr><th>CV Number</th><th>Value</th></tr>
+          ${rows}
+        </table>
+      `;
+    }
+
+    function renderFunctionTable(functions) {
+      const fnList = Object.values(functions).sort((a, b) => a.number - b.number);
+
+      const rows = fnList.map(fn => {
+        const afcSettings = fn.afc
+          ? Object.entries(fn.afc).map(([k, v]) => `${k}: ${v}`).join('<br>')
+          : '';
+        const iconImg = fn.icon?.slug
+          ? `<img src="../${fn.icon.img}" alt="${fn.name}" style="height: 48px;">`
+          : '';
+        return `<tr><td>${fn.number}</td><td>${iconImg}</td><td>${fn.name || '—'}</td><td>${fn.type || '—'}</td><td>${afcSettings || '—'}</td></tr>`;
+      });
+
+      fnDiv.innerHTML = `
+        <h2>Function Table</h2>
+        <table>
+          <thead>
+            <tr><th>Number</th><th>Icon</th><th>Name</th><th>Type</th><th>AFC Settings</th></tr>
+          </thead>
+          <tbody>${rows.join('')}</tbody>
+        </table>
+      `;
+    }
+  </script>
+</head>
+<body>
+  <nav class="breadcrumb">
+    <a href="/">Home</a> &gt; <a href="/products">Products</a> &gt; <span id="breadcrumbSku">SKU</span>
+  </nav>
+  <div class="main-container">
+    <div class="left-column">
+      <div id="productInfo"></div>
+      <div id="cvTable" style="margin-top: 20px;"></div>
+    </div>
+    <div class="right-column">
+      <div id="functionTable"></div>
+    </div>
+  </div>
+</body>
+</html>

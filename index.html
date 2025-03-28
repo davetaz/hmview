@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>HM Viewer</title>
+  <link rel="stylesheet" href="style/dark.css" />
+  <link rel="stylesheet" href="style/jquery.dataTables.min.css" />
+  <style>
+    table img {
+      max-height: 40px;
+    }
+    td, th {
+      vertical-align: middle;
+    }
+    body {
+      max-width: 90%;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="lastUpdated" style="position: absolute; top: 10px; right: 20px; font-size: 0.9em; color: #aaa;"></div>
+  <h1>HM View</h1>
+  <h2>Firemare Versions</h2>
+  <table id="firmwareTable">
+    <thead>
+      <tr>
+        <th>Hardware</th>
+        <th>Version</th>
+        <th>Updated</th>
+        <th>Download</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <h2>Products</h2>
+  <table id="productsTable">
+    <thead>
+      <tr>
+        <th>SKU</th>
+        <th>Title</th>
+        <th>Image</th>
+        <th>Scale</th>
+        <th>Function Count</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="js/jquery-3.7.1.min.js"></script>
+  <script src="js/jquery.dataTables.min.js"></script>
+  <script type="module">
+    const productTable = document.getElementById('productsTable').querySelector('tbody');
+    const firmwareTable = document.getElementById('firmwareTable').querySelector('tbody');
+
+    fetch('data/metadata.json')
+      .then(res => res.json())
+      .then(meta => {
+        const div = document.getElementById('lastUpdated');
+        if (meta?.last_updated) {
+          const d = new Date(meta.last_updated);
+          const formatted = `${d.getFullYear()}-${(d.getMonth()+1).toString().padStart(2, '0')}-${d.getDate().toString().padStart(2, '0')}`;
+          div.textContent = `Last updated: ${formatted}`;
+        }
+      })
+      .catch(err => {
+        console.warn('Could not load metadata.json', err);
+    });
+    // Load firmware table
+    fetch('data/firmwares.json')
+      .then(res => res.json())
+      .then(firmwares => {
+        firmwares.sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+
+        for (const fw of firmwares) {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${fw.hardware}</td>
+            <td>${fw.version}</td>
+            <td>${formatDate(fw.updated_at)}</td>
+            <td><a href="${fw.link}" download>Download</a></td>
+          `;
+          firmwareTable.appendChild(row);
+        }
+
+        new DataTable('#firmwareTable', {
+          paging: false,
+          searching: false,
+          info: false,
+          order: [[2, 'desc']]
+        });
+      });
+
+    // Load product table
+    fetch('data/products.json')
+      .then(res => res.json())
+      .then(products => {
+        // Sort SD-prefixed SKUs first, then alphabetically
+        products.sort((a, b) => {
+          const aSD = a.project_suite_sku.startsWith('SD');
+          const bSD = b.project_suite_sku.startsWith('SD');
+
+          if (aSD && !bSD) return -1;
+          if (!aSD && bSD) return 1;
+
+          return a.project_suite_sku.localeCompare(b.project_suite_sku, 'en', { numeric: true });
+        });
+
+        for (const product of products) {
+          const sku = product.project_suite_sku || '';
+          const title = product.title || '';
+          const imgHTML = product.img ? `<img src="../${product.img}" alt="${sku}">` : '';
+
+          let scaleDisplay = product.product_item_scale;
+          if (scaleDisplay === '0.12') {
+            scaleDisplay = 'TT:120';
+          } else if (scaleDisplay === '0.76') {
+            scaleDisplay = '00';
+          }
+
+          const fnCount = product.functions ? Object.keys(product.functions).length : 0;
+          const link = `<a href="products/${sku}.html">View</a>`;
+
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${sku}</td>
+            <td>${title}</td>
+            <td>${imgHTML}</td>
+            <td>${scaleDisplay}</td>
+            <td>${fnCount}</td>
+            <td>${link}</td>
+          `;
+          productTable.appendChild(row);
+        }
+
+        new DataTable('#productsTable', {
+          paging: true,
+          searching: true,
+          info: true,
+          responsive: true,
+          pageLength: 50,
+          order: [[3, 'asc']] // Default sort by Scale column (index 3)
+        });
+      });
+      function formatDate(isoString) {
+        const date = new Date(isoString);
+        const year = date.getFullYear();
+        const month = `${date.getMonth() + 1}`.padStart(2, '0');
+        const day = `${date.getDate()}`.padStart(2, '0');
+        return `${year}-${month}-${day}`;
+      }
+  </script>
+</body>
+</html>
