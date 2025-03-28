@@ -16854,9 +16854,9 @@
         "type": "momentary",
         "icon": {
           "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
+          "title": "Safety Announcements",
+          "slug": "gsa_1",
+          "img": "images/functions/gsa_1_off.svg",
           "created_at": "2022-10-11 10:56:44",
           "updated_at": "2022-10-13 14:15:05"
         },
@@ -16864,7 +16864,7 @@
           "stationary": 1,
           "running": 1
         },
-        "name": "Sound on/ off"
+        "name": "Safety Announcements"
       },
       "f18": {
         "number": 18,
@@ -16872,9 +16872,9 @@
         "type": "momentary",
         "icon": {
           "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
+          "title": "Destination Announcements",
+          "slug": "gsa_1",
+          "img": "images/functions/gsa_1_off.svg",
           "created_at": "2022-10-11 10:56:44",
           "updated_at": "2022-10-13 14:15:05"
         },
@@ -16882,7 +16882,7 @@
           "stationary": 1,
           "running": 0
         },
-        "name": "Sound on/ off"
+        "name": "Destination Announcements"
       },
       "f19": {
         "number": 19,
@@ -16908,7 +16908,7 @@
         "type": "latching",
         "icon": {
           "id": 57,
-          "title": "General Sounds - Announcement",
+          "title": "Station Sounds",
           "slug": "gsa_1",
           "img": "images/functions/gsa_1_off.svg",
           "created_at": "2022-10-11 11:14:26",
@@ -16918,7 +16918,7 @@
           "stationary": 1,
           "running": 0
         },
-        "name": "General Sounds - Announcement"
+        "name": "Station Sounds"
       },
       "f21": {
         "number": 21,
@@ -16962,9 +16962,9 @@
         "type": "latching",
         "icon": {
           "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
+          "title": "Door Lights",
+          "slug": "dlt_1",
+          "img": "images/functions/dlt_1_off.svg",
           "created_at": "2022-10-11 10:56:44",
           "updated_at": "2022-10-13 14:15:05"
         },
@@ -16972,7 +16972,7 @@
           "stationary": 0,
           "running": 0
         },
-        "name": "Sound on/ off"
+        "name": "Door Lights (left)"
       },
       "f24": {
         "number": 24,
@@ -16980,9 +16980,9 @@
         "type": "latching",
         "icon": {
           "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
+          "title": "Door Lights",
+          "slug": "dlt_1",
+          "img": "images/functions/dlt_1_off.svg",
           "created_at": "2022-10-11 10:56:44",
           "updated_at": "2022-10-13 14:15:05"
         },
@@ -16990,7 +16990,7 @@
           "stationary": 0,
           "running": 0
         },
-        "name": "Sound on/ off"
+        "name": "Door Lights (right)"
       },
       "f25": {
         "number": 25,
@@ -25796,9 +25796,9 @@
         "type": "latching",
         "icon": {
           "id": 22,
-          "title": "Aux Lighting",
-          "slug": "auxl_1",
-          "img": "images/functions/auxl_1_off.svg",
+          "title": "Cabin Light",
+          "slug": "cl_1",
+          "img": "images/functions/cl_1_off.svg",
           "created_at": "2022-10-11 10:53:59",
           "updated_at": "2022-10-13 14:17:11"
         },
@@ -25806,7 +25806,7 @@
           "stationary": null,
           "running": null
         },
-        "name": "Aux Lighting"
+        "name": "Cabin Light"
       },
       "f22": {
         "number": 22,
@@ -28971,7 +28971,7 @@
         "type": "latching",
         "icon": {
           "id": 22,
-          "title": "Aux Lighting",
+          "title": "Headcode Lights OFF",
           "slug": "auxl_1",
           "img": "images/functions/auxl_1_off.svg",
           "created_at": "2022-10-11 10:53:59",
@@ -28981,7 +28981,7 @@
           "stationary": null,
           "running": null
         },
-        "name": "Aux Lighting"
+        "name": "Headcode Lights OFF"
       },
       "f22": {
         "number": 22,
@@ -28989,9 +28989,9 @@
         "type": "latching",
         "icon": {
           "id": 22,
-          "title": "Aux Lighting",
-          "slug": "auxl_1",
-          "img": "images/functions/auxl_1_off.svg",
+          "title": "Trailing mode",
+          "slug": "class_66_load",
+          "img": "images/functions/class_66_load_off.svg",
           "created_at": "2022-10-11 10:53:59",
           "updated_at": "2022-10-13 14:17:11"
         },
@@ -28999,7 +28999,7 @@
           "stationary": null,
           "running": null
         },
-        "name": "Aux Lighting"
+        "name": "Trailing mode"
       },
       "f23": {
         "number": 23,
@@ -29007,9 +29007,9 @@
         "type": "latching",
         "icon": {
           "id": 22,
-          "title": "Aux Lighting",
-          "slug": "auxl_1",
-          "img": "images/functions/auxl_1_off.svg",
+          "title": "Cabin Light",
+          "slug": "cl_1",
+          "img": "images/functions/cl_1_off.svg",
           "created_at": "2022-10-11 10:53:59",
           "updated_at": "2022-10-13 14:17:11"
         },
@@ -29017,7 +29017,7 @@
           "stationary": null,
           "running": null
         },
-        "name": "Aux Lighting"
+        "name": "Cabin Light"
       },
       "f24": {
         "number": 24,
@@ -29025,7 +29025,7 @@
         "type": "latching",
         "icon": {
           "id": 22,
-          "title": "Aux Lighting",
+          "title": "Headlight",
           "slug": "auxl_1",
           "img": "images/functions/auxl_1_off.svg",
           "created_at": "2022-10-11 10:53:59",
@@ -29035,7 +29035,7 @@
           "stationary": null,
           "running": null
         },
-        "name": "Aux Lighting"
+        "name": "Headlight"
       },
       "f25": {
         "number": 25,
@@ -43077,7 +43077,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 8: Duke of Gloucester",
     "slug": "duke-of-gloucester",
-    "img": null,
+    "img": "images/products/SD066.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -43532,7 +43532,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 43 (Valenta)",
     "slug": "class-43-valenta-1",
-    "img": null,
+    "img": "images/products/SD003.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -44113,7 +44113,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Merchant Navy (Rebuilt)",
     "slug": "merchant-navy-rebuilt",
-    "img": null,
+    "img": "images/products/SD020.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -44640,7 +44640,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "P2: Cock o' the North",
     "slug": "cock-o-the-north",
-    "img": null,
+    "img": "images/products/SD008.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -45095,7 +45095,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Britannia  Class",
     "slug": "britannia-class-1",
-    "img": null,
+    "img": "images/products/SD019.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -45622,7 +45622,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 08",
     "slug": "class-08-1",
-    "img": null,
+    "img": "images/products/SD009.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -46203,7 +46203,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Princess Royal",
     "slug": "princess-royal",
-    "img": null,
+    "img": "images/products/SD068.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -46730,7 +46730,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "J36",
     "slug": "j36",
-    "img": null,
+    "img": "images/products/SD071.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -47257,7 +47257,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Hall Class",
     "slug": "hall-class",
-    "img": null,
+    "img": "images/products/SD061.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -47712,7 +47712,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 31",
     "slug": "class-31-1",
-    "img": null,
+    "img": "images/products/SD018.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -48293,7 +48293,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 37 (Un-refurbished)",
     "slug": "class-37-un-refurbished",
-    "img": null,
+    "img": "images/products/SD013.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -48874,7 +48874,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 47",
     "slug": "class-47",
-    "img": null,
+    "img": "images/products/SD043.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -49455,7 +49455,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 60",
     "slug": "class-60",
-    "img": null,
+    "img": "images/products/SD045.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -50036,7 +50036,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 67",
     "slug": "class-67",
-    "img": null,
+    "img": "images/products/SD015.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -50617,7 +50617,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "A1 / A3",
     "slug": "a1-a3-1",
-    "img": null,
+    "img": "images/products/SD001.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -51072,7 +51072,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "A4",
     "slug": "a4-3",
-    "img": null,
+    "img": "images/products/SD002.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -51527,7 +51527,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "A1: Tornado",
     "slug": "a1-tornado",
-    "img": null,
+    "img": "images/products/SD010.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -51982,7 +51982,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "King Class",
     "slug": "king-class",
-    "img": null,
+    "img": "images/products/SD059.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -52437,7 +52437,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Castle Class",
     "slug": "castle-class",
-    "img": null,
+    "img": "images/products/SD067.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -52892,7 +52892,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "9F",
     "slug": "9f-2",
-    "img": null,
+    "img": "images/products/SD026.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -53347,7 +53347,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Black 5",
     "slug": "black-5-1",
-    "img": null,
+    "img": "images/products/SD029.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -53874,7 +53874,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Merchant Navy (Original)",
     "slug": "merchant-navy-original",
-    "img": null,
+    "img": "images/products/SD020.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -54401,7 +54401,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "S15: Maunsell",
     "slug": "s15-maunsell",
-    "img": null,
+    "img": "images/products/SD021.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -54928,7 +54928,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Princess Coronation",
     "slug": "princess-coronation-1",
-    "img": null,
+    "img": "images/products/SD011.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -55437,7 +55437,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 20",
     "slug": "class-20",
-    "img": null,
+    "img": "images/products/SD058.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -56599,7 +56599,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "Class 43 (MTU)",
     "slug": "class-43-mtu-1",
-    "img": null,
+    "img": "images/products/SD004.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -57180,7 +57180,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "2P",
     "slug": "2p-1",
-    "img": null,
+    "img": "images/products/SD016.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -57635,7 +57635,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "4F",
     "slug": "4f-1",
-    "img": null,
+    "img": "images/products/SD017.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
@@ -58090,7 +58090,7 @@
     "updated_at": "2025-03-27 08:45:03",
     "title": "SR Class: Lord Nelson",
     "slug": "sr-class-lord-nelson",
-    "img": null,
+    "img": "images/products/SD069.png",
     "manufacture": {
       "id": 7,
       "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
