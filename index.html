@@ -43,6 +43,7 @@
         <th>Image</th>
         <th>Scale</th>
         <th>Function Count</th>
+        <th>Last updated</th>
         <th>Link</th>
       </tr>
     </thead>
@@ -130,6 +131,7 @@
             <td>${imgHTML}</td>
             <td>${scaleDisplay}</td>
             <td>${fnCount}</td>
+            <td>${formatDate(product.updated_at)}</td>
             <td>${link}</td>
           `;
           productTable.appendChild(row);
