@@ -48,30 +48,6 @@
     "link": "https://hmportal.io/storage/firmware/375d7fc59e4c9dadef9570e69f895fd7.bin"
   },
   {
-    "id": 45,
-    "uuid": "3408bc64-b373-11ed-844f-2ea091fb6937",
-    "user_id": 1,
-    "hardware": "hm7000",
-    "version": "0.6.0",
-    "filepath": "2310effc6fff6e6eecc6792bbaed830d.bin",
-    "status": "PUBLISHED",
-    "created_at": "2023-02-23 12:11:29",
-    "updated_at": "2023-03-31 12:54:35",
-    "link": "https://hmportal.io/storage/firmware/2310effc6fff6e6eecc6792bbaed830d.bin"
-  },
-  {
-    "id": 46,
-    "uuid": "049a3a5e-b691-11ed-97f1-2ea091fb6937",
-    "user_id": 1,
-    "hardware": "hm7000",
-    "version": "0.6.1",
-    "filepath": "12e5f31cf967a20942540bafb99f5bcb.bin",
-    "status": "PUBLISHED",
-    "created_at": "2023-02-27 11:22:28",
-    "updated_at": "2024-09-03 11:20:11",
-    "link": "https://hmportal.io/storage/firmware/12e5f31cf967a20942540bafb99f5bcb.bin"
-  },
-  {
     "id": 48,
     "uuid": "46f80364-c00e-11ed-be22-3a657be725ed",
     "user_id": 1,
@@ -142,17 +118,5 @@
     "created_at": "2023-10-06 11:20:41",
     "updated_at": "2024-11-21 09:35:10",
     "link": "https://hmportal.io/storage/firmware/70e3bb30b8a35f4de35fa83e27acc5af.bin"
-  },
-  {
-    "id": 55,
-    "uuid": "f2b8893a-68ff-11ef-931c-9acf904d5f7c",
-    "user_id": 388,
-    "hardware": "hm7000",
-    "version": "0.7.0",
-    "filepath": "64e6fe0fe07ce4db5f4020bfcb6629c1.bin",
-    "status": "PUBLISHED",
-    "created_at": "2024-09-02 08:49:56",
-    "updated_at": "2025-01-06 12:20:17",
-    "link": "https://hmportal.io/storage/firmware/64e6fe0fe07ce4db5f4020bfcb6629c1.bin"
   }
 ]
