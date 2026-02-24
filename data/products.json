@@ -1,7 +1,7 @@
 [
   {
     "id": 51,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD001",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -10,7 +10,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "A1 / A3",
     "slug": "a1-a3-00",
     "img": "images/products/SD001.png",
@@ -636,7 +636,7 @@
   },
   {
     "id": 52,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD002",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -645,7 +645,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "A4",
     "slug": "a4-2",
     "img": "images/products/SD002.png",
@@ -1271,7 +1271,7 @@
   },
   {
     "id": 47,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD003",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -1280,7 +1280,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:02",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "Class 43 HST (Valenta)",
     "slug": "class-43-valenta",
     "img": "images/products/SD003.png",
@@ -1906,7 +1906,7 @@
   },
   {
     "id": 48,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD004",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -1915,7 +1915,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "Class 43 HST (MTU)",
     "slug": "class-43-mtu",
     "img": "images/products/SD004.png",
@@ -2541,7 +2541,7 @@
   },
   {
     "id": 132,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD005",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (00)",
@@ -2550,7 +2550,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-06-19 11:40:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 91",
     "slug": "class-91",
     "img": "images/products/SD005.png",
@@ -3160,7 +3160,7 @@
   },
   {
     "id": 49,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD006",
     "loco_image_silhouette": "diesel_electric_1_sil",
     "product_sub_category": "TXS: Electro-Diesel (00)",
@@ -3169,7 +3169,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "Class 73",
     "slug": "class-73-1",
     "img": "images/products/SD006.png",
@@ -3795,7 +3795,7 @@
   },
   {
     "id": 135,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD007",
     "loco_image_silhouette": "diesel_electric_1_sil",
     "product_sub_category": "TXS: Electro-Diesel (00)",
@@ -3804,7 +3804,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-07-02 11:10:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 800",
     "slug": "class-800-1",
     "img": "images/products/SD007.png",
@@ -4430,7 +4430,7 @@
   },
   {
     "id": 54,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD008",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -4439,7 +4439,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "P2",
     "slug": "p2",
     "img": "images/products/SD008.png",
@@ -5065,7 +5065,7 @@
   },
   {
     "id": 55,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD009",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -5074,7 +5074,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 08",
     "slug": "class-08",
     "img": "images/products/SD009.png",
@@ -5700,7 +5700,7 @@
   },
   {
     "id": 56,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD010",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -5709,7 +5709,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "A1: Tornado",
     "slug": "tornado",
     "img": "images/products/SD010.png",
@@ -6335,7 +6335,7 @@
   },
   {
     "id": 57,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD011",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -6344,7 +6344,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Princess Coronation",
     "slug": "princess-coronation",
     "img": "images/products/SD011.png",
@@ -6970,7 +6970,7 @@
   },
   {
     "id": 80,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD013",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -6979,7 +6979,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-28 11:45:06",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 37",
     "slug": "test-v1-0",
     "img": "images/products/SD013.png",
@@ -7605,7 +7605,7 @@
   },
   {
     "id": 81,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD015",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -7614,7 +7614,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-10-05 14:45:04",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 67",
     "slug": "class-67-v1-0",
     "img": "images/products/SD015.png",
@@ -8240,7 +8240,7 @@
   },
   {
     "id": 63,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD016",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -8249,7 +8249,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "2P",
     "slug": "2p",
     "img": "images/products/SD016.png",
@@ -8875,7 +8875,7 @@
   },
   {
     "id": 64,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD017",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -8884,7 +8884,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "4F",
     "slug": "4f",
     "img": "images/products/SD017.png",
@@ -9510,7 +9510,7 @@
   },
   {
     "id": 65,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD018",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -9519,7 +9519,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 31",
     "slug": "class-31",
     "img": "images/products/SD018.png",
@@ -10145,7 +10145,7 @@
   },
   {
     "id": 66,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD019",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -10154,7 +10154,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Britannia Class",
     "slug": "britannia-class",
     "img": "images/products/SD019.png",
@@ -10780,7 +10780,7 @@
   },
   {
     "id": 62,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD020",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -10789,7 +10789,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Merchant Navy",
     "slug": "merchant-navy",
     "img": "images/products/SD020.png",
@@ -11415,7 +11415,7 @@
   },
   {
     "id": 67,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD021",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -11424,7 +11424,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "S15",
     "slug": "s15",
     "img": "images/products/SD021.png",
@@ -12050,7 +12050,7 @@
   },
   {
     "id": 58,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD022",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -12059,7 +12059,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 50",
     "slug": "class-50",
     "img": "images/products/SD022.png",
@@ -12685,7 +12685,7 @@
   },
   {
     "id": 59,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD023",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -12694,7 +12694,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 66",
     "slug": "class-66",
     "img": "images/products/SD023.png",
@@ -13320,7 +13320,7 @@
   },
   {
     "id": 68,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD024",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -13329,7 +13329,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "B12",
     "slug": "b12",
     "img": "images/products/SD024.png",
@@ -13955,7 +13955,7 @@
   },
   {
     "id": 85,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD025",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -13964,7 +13964,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "W1 (Original)",
     "slug": "w1-original",
     "img": "images/products/SD025.png",
@@ -14590,7 +14590,7 @@
   },
   {
     "id": 50,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD026",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -14599,7 +14599,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "9F",
     "slug": "9f-1",
     "img": "images/products/SD026.png",
@@ -15225,7 +15225,7 @@
   },
   {
     "id": 87,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD027",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (00)",
@@ -15234,7 +15234,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 423: 4 VEP",
     "slug": "class-423-4-vep",
     "img": "images/products/SD027.png",
@@ -15844,7 +15844,7 @@
   },
   {
     "id": 160,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD028",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (00)",
@@ -15853,7 +15853,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-11-20 16:55:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 87",
     "slug": "class-87",
     "img": "images/products/SD028.png",
@@ -16479,7 +16479,7 @@
   },
   {
     "id": 61,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD029",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -16488,7 +16488,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Black 5",
     "slug": "black-5",
     "img": "images/products/SD029.png",
@@ -17114,7 +17114,7 @@
   },
   {
     "id": 145,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD030",
     "loco_image_silhouette": "diesel_electric_1_sil",
     "product_sub_category": "TXS: Electro-Diesel (00)",
@@ -17123,7 +17123,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-01-28 11:30:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 755 FLIRT",
     "slug": "class-755-flirt-1",
     "img": "images/products/SD030.png",
@@ -17749,7 +17749,7 @@
   },
   {
     "id": 74,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD031",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -17758,7 +17758,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-11 11:05:04",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Turbomotive",
     "slug": "turbomotive-v1-0",
     "img": "images/products/SD031.png",
@@ -18384,7 +18384,7 @@
   },
   {
     "id": 60,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD032",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -18393,7 +18393,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 55: Deltic",
     "slug": "class-55",
     "img": "images/products/SD032.png",
@@ -19019,7 +19019,7 @@
   },
   {
     "id": 83,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD033",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -19028,7 +19028,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2024-01-16 09:00:05",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "A1 / A3: 'FS' (Steam Generator)",
     "slug": "a1-a3-flying-scotsman-ss",
     "img": "images/products/SD033.png",
@@ -19654,7 +19654,7 @@
   },
   {
     "id": 75,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD034",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -19663,7 +19663,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2023-09-25 09:30:05",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "P2: 'PoW' (Steam Generator)",
     "slug": "p2-prince-of-wales-ss",
     "img": "images/products/SD034.png",
@@ -20289,7 +20289,7 @@
   },
   {
     "id": 140,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD035",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -20298,7 +20298,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2025-01-02 09:20:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Black 5: Steam Generator (SS)",
     "slug": "black-5-steam-sound",
     "img": "images/products/SD035.png",
@@ -20924,7 +20924,7 @@
   },
   {
     "id": 44,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD036",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (TT)",
@@ -20933,7 +20933,7 @@
     "decoder_part_number": "X15196",
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:02",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "A1 / A3: Flying Scotsman",
     "slug": "a1-a3-flying-scotsman-1",
     "img": "images/products/SD036.png",
@@ -21559,7 +21559,7 @@
   },
   {
     "id": 45,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD037",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (TT)",
@@ -21568,7 +21568,7 @@
     "decoder_part_number": "X14650",
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:02",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "A1 / A3",
     "slug": "a1-a3",
     "img": "images/products/SD037.png",
@@ -22194,7 +22194,7 @@
   },
   {
     "id": 46,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD038",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (TT)",
@@ -22203,7 +22203,7 @@
     "decoder_part_number": "X15009",
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:02",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "A4",
     "slug": "a4",
     "img": "images/products/SD038.png",
@@ -22829,7 +22829,7 @@
   },
   {
     "id": 143,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD039",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -22838,7 +22838,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-01-02 09:20:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "J13/J52 Class",
     "slug": "j13-j52-class-1",
     "img": "images/products/SD039.png",
@@ -23464,7 +23464,7 @@
   },
   {
     "id": 53,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD040",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -23473,7 +23473,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2022-12-12 19:57:21",
-    "updated_at": "2025-11-20 16:55:03",
+    "updated_at": "2026-02-11 10:45:03",
     "title": "A1 / A3: Flying Scotsman",
     "slug": "a1-a3-flying-scotsman-2",
     "img": "images/products/SD040.png",
@@ -24099,7 +24099,7 @@
   },
   {
     "id": 76,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD041",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (TT)",
@@ -24108,7 +24108,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-25 09:30:05",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 43 HST (Valenta)",
     "slug": "class-43-valenta-2",
     "img": "images/products/SD041.png",
@@ -24734,7 +24734,7 @@
   },
   {
     "id": 71,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD042",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -24743,7 +24743,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-02-22 11:10:03",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 56",
     "slug": "class-56",
     "img": "images/products/SD042.png",
@@ -25307,11 +25307,11 @@
       },
       {
         "cv": 5,
-        "value": 255
+        "value": 200
       },
       {
         "cv": 6,
-        "value": 72
+        "value": 60
       },
       {
         "cv": 7,
@@ -25369,7 +25369,7 @@
   },
   {
     "id": 72,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD043",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -25378,7 +25378,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-11 11:05:03",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Class 47",
     "slug": "test",
     "img": "images/products/SD043.png",
@@ -26004,7 +26004,7 @@
   },
   {
     "id": 77,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD044",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (TT)",
@@ -26013,7 +26013,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-25 09:30:05",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 43 HST (MTU)",
     "slug": "class-43-hst-mtu",
     "img": "images/products/SD044.png",
@@ -26639,7 +26639,7 @@
   },
   {
     "id": 84,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD045",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -26648,7 +26648,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-01-16 09:00:05",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 60",
     "slug": "class-60-v1-4-1",
     "img": "images/products/SD045.png",
@@ -27274,7 +27274,7 @@
   },
   {
     "id": 73,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD046",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -27283,7 +27283,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-11 11:05:04",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 66: Coronation",
     "slug": "class-66-coronation-v2-0",
     "img": "images/products/SD046.png",
@@ -27909,7 +27909,7 @@
   },
   {
     "id": 89,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD047",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -27918,7 +27918,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "P2: Steam Generator (SS)",
     "slug": "p2-steam-generator-ss",
     "img": "images/products/SD047.png",
@@ -28544,7 +28544,7 @@
   },
   {
     "id": 134,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD048",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -28553,7 +28553,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2024-06-19 11:40:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "W1 (Original): Steam Generator (SS)",
     "slug": "w1-steam-generator",
     "img": "images/products/SD048.png",
@@ -29179,7 +29179,7 @@
   },
   {
     "id": 159,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD049",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -29188,7 +29188,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-11-04 09:25:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "DP1: Deltic",
     "slug": "dp1-deltic",
     "img": "images/products/SD049.png",
@@ -29814,7 +29814,7 @@
   },
   {
     "id": 78,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD050",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (TT)",
@@ -29823,7 +29823,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-25 09:30:05",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 50",
     "slug": "class-50-2",
     "img": "images/products/SD050.png",
@@ -30449,7 +30449,7 @@
   },
   {
     "id": 131,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD051",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (TT)",
@@ -30458,7 +30458,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-06-19 11:40:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 66",
     "slug": "class-66-3",
     "img": "images/products/SD051.png",
@@ -31084,7 +31084,7 @@
   },
   {
     "id": 79,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD052",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (TT)",
@@ -31093,7 +31093,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-09-28 11:45:06",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Duchess Class",
     "slug": "duchess-class",
     "img": "images/products/SD052.png",
@@ -31719,7 +31719,7 @@
   },
   {
     "id": 137,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD053",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -31728,7 +31728,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-07-02 11:10:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "B17/5: Streamline",
     "slug": "b17-streamline",
     "img": "images/products/SD053.png",
@@ -32354,7 +32354,7 @@
   },
   {
     "id": 82,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD054",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -32363,7 +32363,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-12-21 14:55:03",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "2MT",
     "slug": "2mt",
     "img": "images/products/SD054.png",
@@ -32989,7 +32989,7 @@
   },
   {
     "id": 158,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD055",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (00)",
@@ -32998,7 +32998,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-10-16 16:00:08",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 370: APT",
     "slug": "class-370-apt",
     "img": "images/products/SD055.png",
@@ -33606,7 +33606,7 @@
   },
   {
     "id": 139,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD056",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -33615,7 +33615,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-10-03 10:50:05",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Lion",
     "slug": "lion",
     "img": "images/products/SD056.png",
@@ -34241,7 +34241,7 @@
   },
   {
     "id": 149,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD057",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (TT)",
@@ -34250,7 +34250,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 37",
     "slug": "class-37",
     "img": "images/products/SD057.png",
@@ -34876,7 +34876,7 @@
   },
   {
     "id": 88,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD058",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -34885,7 +34885,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 20",
     "slug": "class-20-1",
     "img": "images/products/SD058.png",
@@ -35511,7 +35511,7 @@
   },
   {
     "id": 90,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD059",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -35520,7 +35520,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "King Class",
     "slug": "king-class-1",
     "img": "images/products/SD059.png",
@@ -36145,8 +36145,643 @@
     ]
   },
   {
+    "id": 163,
+    "csvdata_id": 63,
+    "project_suite_sku": "SD060",
+    "loco_image_silhouette": "diesel_1_sil",
+    "product_sub_category": "TXS: Diesel (00)",
+    "product_item_scale": "0.76",
+    "product_hby_class": "Class_121",
+    "decoder_part_number": null,
+    "ASU_steam_unit": 0,
+    "created_at": "2026-02-11 10:45:07",
+    "updated_at": "2026-02-11 10:45:07",
+    "title": "Class 121: DMU",
+    "slug": "class-121-dmu",
+    "img": "images/products/SD060.png",
+    "manufacture": {
+      "id": 7,
+      "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
+      "name": "Other",
+      "slug": "other",
+      "logo": null,
+      "url": null,
+      "approved": 0,
+      "status": "PUBLISHED",
+      "weight": 0,
+      "data": {
+        "bgcolour": "#919191"
+      },
+      "created_at": "2023-11-29 17:35:35",
+      "updated_at": "2023-12-12 15:56:49",
+      "deleted_at": null
+    },
+    "functions": {
+      "f0": {
+        "number": 0,
+        "con_id": 2,
+        "type": "latching",
+        "icon": {
+          "id": 2,
+          "title": "Day Light",
+          "slug": "dl_1",
+          "img": "images/functions/dl_1_off.svg",
+          "created_at": "2022-10-11 10:43:10",
+          "updated_at": "2022-10-13 13:39:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Day Light"
+      },
+      "f1": {
+        "number": 1,
+        "con_id": 24,
+        "type": "latching",
+        "icon": {
+          "id": 24,
+          "title": "Engine Start",
+          "slug": "es_1",
+          "img": "images/functions/es_1_off.svg",
+          "created_at": "2022-10-11 10:54:47",
+          "updated_at": "2022-10-13 14:16:26"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Engine Start"
+      },
+      "f2": {
+        "number": 2,
+        "con_id": 25,
+        "type": "momentary",
+        "icon": {
+          "id": 25,
+          "title": "Multiple Horns - 1",
+          "slug": "mh_1",
+          "img": "images/functions/mh_1_off.svg",
+          "created_at": "2022-10-11 10:56:10",
+          "updated_at": "2022-10-13 14:16:02"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Multiple Horns - 1"
+      },
+      "f3": {
+        "number": 3,
+        "con_id": 26,
+        "type": "momentary",
+        "icon": {
+          "id": 26,
+          "title": "Multiple Horns - 2",
+          "slug": "mh_2",
+          "img": "images/functions/mh_2_off.svg",
+          "created_at": "2022-10-11 10:56:26",
+          "updated_at": "2022-10-13 14:15:33"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Multiple Horns - 2"
+      },
+      "f4": {
+        "number": 4,
+        "con_id": 5,
+        "type": "momentary",
+        "icon": {
+          "id": 5,
+          "title": "Brake",
+          "slug": "bs_1",
+          "img": "images/functions/bs_1_off.svg",
+          "created_at": "2022-10-11 10:45:10",
+          "updated_at": "2022-10-13 14:38:25"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Brake"
+      },
+      "f5": {
+        "number": 5,
+        "con_id": 96,
+        "type": "momentary",
+        "icon": {
+          "id": 96,
+          "title": "Cab Start-Up",
+          "slug": "csa_1",
+          "img": "images/functions/csa_1_off.svg",
+          "created_at": "2024-05-16 12:22:42",
+          "updated_at": "2024-05-16 12:22:42"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Cab Start-Up"
+      },
+      "f6": {
+        "number": 6,
+        "con_id": 79,
+        "type": "latching",
+        "icon": {
+          "id": 79,
+          "title": "Detonators",
+          "slug": "deto_1",
+          "img": "images/functions/deto_1_off.svg",
+          "created_at": "2023-03-08 17:04:30",
+          "updated_at": "2023-03-08 17:04:30"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Detonators"
+      },
+      "f7": {
+        "number": 7,
+        "con_id": 58,
+        "type": "momentary",
+        "icon": {
+          "id": 58,
+          "title": "Idle",
+          "slug": "idl_1",
+          "img": "images/functions/idl_1_off.svg",
+          "created_at": "2022-10-11 11:14:44",
+          "updated_at": "2022-10-13 13:46:20"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Idle"
+      },
+      "f8": {
+        "number": 8,
+        "con_id": 69,
+        "type": "latching",
+        "icon": {
+          "id": 69,
+          "title": "Diesel Engine Thrash",
+          "slug": "det_1",
+          "img": "images/functions/det_1_off.svg",
+          "created_at": "2022-11-29 17:12:07",
+          "updated_at": "2023-03-08 17:03:35"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Diesel Engine Thrash"
+      },
+      "f9": {
+        "number": 9,
+        "con_id": 30,
+        "type": "latching",
+        "icon": {
+          "id": 30,
+          "title": "Diesel Cold Start",
+          "slug": "dcs_1",
+          "img": "images/functions/dcs_1_off.svg",
+          "created_at": "2022-10-11 10:57:50",
+          "updated_at": "2022-10-13 14:13:16"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Diesel Cold Start"
+      },
+      "f10": {
+        "number": 10,
+        "con_id": 88,
+        "type": "latching",
+        "icon": {
+          "id": 88,
+          "title": "Compressor",
+          "slug": "comp_1",
+          "img": "images/functions/comp_1_off.svg",
+          "created_at": "2023-03-08 17:07:00",
+          "updated_at": "2023-03-08 17:07:00"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Compressor"
+      },
+      "f11": {
+        "number": 11,
+        "con_id": 70,
+        "type": "latching",
+        "icon": {
+          "id": 70,
+          "title": "Windscreen Wipers",
+          "slug": "ww_1",
+          "img": "images/functions/ww_1_off.svg",
+          "created_at": "2022-11-29 17:12:34",
+          "updated_at": "2023-03-06 13:16:08"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Windscreen Wipers"
+      },
+      "f12": {
+        "number": 12,
+        "con_id": 85,
+        "type": "latching",
+        "icon": {
+          "id": 85,
+          "title": "Spirax Valv",
+          "slug": "spv_1",
+          "img": "images/functions/spv_1_off.svg",
+          "created_at": "2023-03-08 17:06:19",
+          "updated_at": "2023-03-08 17:06:19"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Spirax Valv"
+      },
+      "f13": {
+        "number": 13,
+        "con_id": 73,
+        "type": "momentary",
+        "icon": {
+          "id": 73,
+          "title": "AWS Test",
+          "slug": "aws_1",
+          "img": "images/functions/aws_1_off.svg",
+          "created_at": "2022-11-29 17:14:16",
+          "updated_at": "2023-03-06 13:15:27"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "AWS Test"
+      },
+      "f14": {
+        "number": 14,
+        "con_id": 15,
+        "type": "latching",
+        "icon": {
+          "id": 15,
+          "title": "Flange Squeal",
+          "slug": "fs_1",
+          "img": "images/functions/fs_1_off.svg",
+          "created_at": "2022-10-11 10:51:01",
+          "updated_at": "2022-10-13 14:22:18"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Flange Squeal"
+      },
+      "f15": {
+        "number": 15,
+        "con_id": 17,
+        "type": "momentary",
+        "icon": {
+          "id": 17,
+          "title": "Doors Closed",
+          "slug": "dc_1",
+          "img": "images/functions/dc_1_off.svg",
+          "created_at": "2022-10-11 10:51:41",
+          "updated_at": "2022-10-13 14:20:14"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Doors Closed"
+      },
+      "f16": {
+        "number": 16,
+        "con_id": 81,
+        "type": "momentary",
+        "icon": {
+          "id": 81,
+          "title": "Hand Brake",
+          "slug": "hb_1",
+          "img": "images/functions/hb_1_off.svg",
+          "created_at": "2023-03-08 17:04:52",
+          "updated_at": "2023-03-08 17:04:52"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Hand Brake"
+      },
+      "f17": {
+        "number": 17,
+        "con_id": 77,
+        "type": "momentary",
+        "icon": {
+          "id": 77,
+          "title": "Buffering Up",
+          "slug": "bufu_1",
+          "img": "images/functions/bufu_1_off.svg",
+          "created_at": "2023-03-08 17:04:06",
+          "updated_at": "2023-03-08 17:04:06"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Buffering Up"
+      },
+      "f18": {
+        "number": 18,
+        "con_id": 12,
+        "type": "momentary",
+        "icon": {
+          "id": 12,
+          "title": "Coupling",
+          "slug": "cpl_1",
+          "img": "images/functions/cpl_1_off.svg",
+          "created_at": "2022-10-11 10:49:31",
+          "updated_at": "2022-10-13 14:24:23"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Coupling"
+      },
+      "f19": {
+        "number": 19,
+        "con_id": 11,
+        "type": "momentary",
+        "icon": {
+          "id": 11,
+          "title": "Guards Whistle",
+          "slug": "gw_1",
+          "img": "images/functions/gw_1_off.svg",
+          "created_at": "2022-10-11 10:49:01",
+          "updated_at": "2022-10-13 14:36:12"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Guards Whistle"
+      },
+      "f20": {
+        "number": 20,
+        "con_id": 71,
+        "type": "latching",
+        "icon": {
+          "id": 71,
+          "title": "Guard to Driver Buzzer",
+          "slug": "gdb_1",
+          "img": "images/functions/gdb_1_off.svg",
+          "created_at": "2022-11-29 17:13:18",
+          "updated_at": "2023-03-11 11:33:53"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Guard to Driver Buzzer"
+      },
+      "f21": {
+        "number": 21,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f22": {
+        "number": 22,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f23": {
+        "number": 23,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f24": {
+        "number": 24,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f25": {
+        "number": 25,
+        "con_id": 65,
+        "type": "latching",
+        "icon": {
+          "id": 65,
+          "title": "Shunting Mode",
+          "slug": "shnt_1",
+          "img": "images/functions/shnt_1_off.svg",
+          "created_at": "2022-10-12 09:21:46",
+          "updated_at": "2023-03-06 13:14:52"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Shunting Mode"
+      },
+      "f26": {
+        "number": 26,
+        "con_id": 89,
+        "type": "momentary",
+        "icon": {
+          "id": 89,
+          "title": "Creep Mode",
+          "slug": "crp_1",
+          "img": "images/functions/crp_1_off.svg",
+          "created_at": "2023-07-10 14:19:27",
+          "updated_at": "2023-07-10 14:23:32"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Creep Mode"
+      },
+      "f27": {
+        "number": 27,
+        "con_id": 87,
+        "type": "momentary",
+        "icon": {
+          "id": 87,
+          "title": "Brake",
+          "slug": "br_1",
+          "img": "images/functions/br_1_off.svg",
+          "created_at": "2023-03-08 17:06:48",
+          "updated_at": "2023-03-08 17:06:48"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Brake"
+      },
+      "f28": {
+        "number": 28,
+        "con_id": 68,
+        "type": "latching",
+        "icon": {
+          "id": 68,
+          "title": "AFC",
+          "slug": "afc_1",
+          "img": "images/functions/afc_1_off.svg",
+          "created_at": "2022-10-12 09:22:22",
+          "updated_at": "2023-03-06 13:16:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "AFC"
+      }
+    },
+    "cv_values": [
+      {
+        "cv": 1,
+        "value": 3
+      },
+      {
+        "cv": 2,
+        "value": 1
+      },
+      {
+        "cv": 3,
+        "value": 30
+      },
+      {
+        "cv": 4,
+        "value": 30
+      },
+      {
+        "cv": 5,
+        "value": 150
+      },
+      {
+        "cv": 6,
+        "value": 50
+      },
+      {
+        "cv": 7,
+        "value": 254
+      },
+      {
+        "cv": 12,
+        "value": null
+      },
+      {
+        "cv": 27,
+        "value": null
+      },
+      {
+        "cv": 29,
+        "value": 2
+      },
+      {
+        "cv": 120,
+        "value": 1
+      },
+      {
+        "cv": 121,
+        "value": 1
+      },
+      {
+        "cv": 122,
+        "value": null
+      },
+      {
+        "cv": 123,
+        "value": 5
+      },
+      {
+        "cv": 124,
+        "value": 3
+      },
+      {
+        "cv": 125,
+        "value": null
+      },
+      {
+        "cv": 126,
+        "value": 1
+      },
+      {
+        "cv": 158,
+        "value": 35
+      },
+      {
+        "cv": 213,
+        "value": null
+      }
+    ]
+  },
+  {
     "id": 130,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD061",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -36155,7 +36790,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-03-12 11:35:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Hall Class",
     "slug": "hall-class-1",
     "img": "images/products/SD061.png",
@@ -36781,7 +37416,7 @@
   },
   {
     "id": 146,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD062",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -36790,7 +37425,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-03-27 08:45:03",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "B1 Class",
     "slug": "b1-class",
     "img": "images/products/SD062.png",
@@ -37415,8 +38050,643 @@
     ]
   },
   {
+    "id": 164,
+    "csvdata_id": 63,
+    "project_suite_sku": "SD063",
+    "loco_image_silhouette": "diesel_1_sil",
+    "product_sub_category": "TXS: Diesel (00)",
+    "product_item_scale": "0.76",
+    "product_hby_class": "Class_153",
+    "decoder_part_number": null,
+    "ASU_steam_unit": 0,
+    "created_at": "2026-02-11 10:45:07",
+    "updated_at": "2026-02-11 10:45:07",
+    "title": "Class 153: DMU",
+    "slug": "class-153-dmu",
+    "img": "images/products/SD063.png",
+    "manufacture": {
+      "id": 7,
+      "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
+      "name": "Other",
+      "slug": "other",
+      "logo": null,
+      "url": null,
+      "approved": 0,
+      "status": "PUBLISHED",
+      "weight": 0,
+      "data": {
+        "bgcolour": "#919191"
+      },
+      "created_at": "2023-11-29 17:35:35",
+      "updated_at": "2023-12-12 15:56:49",
+      "deleted_at": null
+    },
+    "functions": {
+      "f0": {
+        "number": 0,
+        "con_id": 2,
+        "type": "latching",
+        "icon": {
+          "id": 2,
+          "title": "Day Light",
+          "slug": "dl_1",
+          "img": "images/functions/dl_1_off.svg",
+          "created_at": "2022-10-11 10:43:10",
+          "updated_at": "2022-10-13 13:39:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Day Light"
+      },
+      "f1": {
+        "number": 1,
+        "con_id": 24,
+        "type": "latching",
+        "icon": {
+          "id": 24,
+          "title": "Engine Start",
+          "slug": "es_1",
+          "img": "images/functions/es_1_off.svg",
+          "created_at": "2022-10-11 10:54:47",
+          "updated_at": "2022-10-13 14:16:26"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Engine Start"
+      },
+      "f2": {
+        "number": 2,
+        "con_id": 25,
+        "type": "momentary",
+        "icon": {
+          "id": 25,
+          "title": "Multiple Horns - 1",
+          "slug": "mh_1",
+          "img": "images/functions/mh_1_off.svg",
+          "created_at": "2022-10-11 10:56:10",
+          "updated_at": "2022-10-13 14:16:02"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Multiple Horns - 1"
+      },
+      "f3": {
+        "number": 3,
+        "con_id": 26,
+        "type": "momentary",
+        "icon": {
+          "id": 26,
+          "title": "Multiple Horns - 2",
+          "slug": "mh_2",
+          "img": "images/functions/mh_2_off.svg",
+          "created_at": "2022-10-11 10:56:26",
+          "updated_at": "2022-10-13 14:15:33"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Multiple Horns - 2"
+      },
+      "f4": {
+        "number": 4,
+        "con_id": 5,
+        "type": "momentary",
+        "icon": {
+          "id": 5,
+          "title": "Brake",
+          "slug": "bs_1",
+          "img": "images/functions/bs_1_off.svg",
+          "created_at": "2022-10-11 10:45:10",
+          "updated_at": "2022-10-13 14:38:25"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Brake"
+      },
+      "f5": {
+        "number": 5,
+        "con_id": 54,
+        "type": "momentary",
+        "icon": {
+          "id": 54,
+          "title": "Diesel Notch Up",
+          "slug": "dnu_1",
+          "img": "images/functions/dnu_1_off.svg",
+          "created_at": "2022-10-11 11:12:21",
+          "updated_at": "2022-10-13 13:48:20"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Diesel Notch Up"
+      },
+      "f6": {
+        "number": 6,
+        "con_id": 55,
+        "type": "momentary",
+        "icon": {
+          "id": 55,
+          "title": "Diesel Notch Down",
+          "slug": "dnd_1",
+          "img": "images/functions/dnd_1_off.svg",
+          "created_at": "2022-10-11 11:12:56",
+          "updated_at": "2022-10-13 13:48:06"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Diesel Notch Down"
+      },
+      "f7": {
+        "number": 7,
+        "con_id": 58,
+        "type": "momentary",
+        "icon": {
+          "id": 58,
+          "title": "Idle",
+          "slug": "idl_1",
+          "img": "images/functions/idl_1_off.svg",
+          "created_at": "2022-10-11 11:14:44",
+          "updated_at": "2022-10-13 13:46:20"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Idle"
+      },
+      "f8": {
+        "number": 8,
+        "con_id": 69,
+        "type": "latching",
+        "icon": {
+          "id": 69,
+          "title": "Diesel Engine Thrash",
+          "slug": "det_1",
+          "img": "images/functions/det_1_off.svg",
+          "created_at": "2022-11-29 17:12:07",
+          "updated_at": "2023-03-08 17:03:35"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Diesel Engine Thrash"
+      },
+      "f9": {
+        "number": 9,
+        "con_id": 30,
+        "type": "latching",
+        "icon": {
+          "id": 30,
+          "title": "Diesel Cold Start",
+          "slug": "dcs_1",
+          "img": "images/functions/dcs_1_off.svg",
+          "created_at": "2022-10-11 10:57:50",
+          "updated_at": "2022-10-13 14:13:16"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Diesel Cold Start"
+      },
+      "f10": {
+        "number": 10,
+        "con_id": 88,
+        "type": "latching",
+        "icon": {
+          "id": 88,
+          "title": "Compressor",
+          "slug": "comp_1",
+          "img": "images/functions/comp_1_off.svg",
+          "created_at": "2023-03-08 17:07:00",
+          "updated_at": "2023-03-08 17:07:00"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Compressor"
+      },
+      "f11": {
+        "number": 11,
+        "con_id": 85,
+        "type": "latching",
+        "icon": {
+          "id": 85,
+          "title": "Spirax Valv",
+          "slug": "spv_1",
+          "img": "images/functions/spv_1_off.svg",
+          "created_at": "2023-03-08 17:06:19",
+          "updated_at": "2023-03-08 17:06:19"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Spirax Valv"
+      },
+      "f12": {
+        "number": 12,
+        "con_id": 131,
+        "type": "latching",
+        "icon": {
+          "id": 131,
+          "title": "Rail Clack",
+          "slug": "rclk_1",
+          "img": "images/functions/rclk_1_off.svg",
+          "created_at": "2024-05-16 12:22:42",
+          "updated_at": "2024-05-16 12:22:42"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Rail Clack"
+      },
+      "f13": {
+        "number": 13,
+        "con_id": 73,
+        "type": "momentary",
+        "icon": {
+          "id": 73,
+          "title": "AWS Test",
+          "slug": "aws_1",
+          "img": "images/functions/aws_1_off.svg",
+          "created_at": "2022-11-29 17:14:16",
+          "updated_at": "2023-03-06 13:15:27"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "AWS Test"
+      },
+      "f14": {
+        "number": 14,
+        "con_id": 15,
+        "type": "latching",
+        "icon": {
+          "id": 15,
+          "title": "Flange Squeal",
+          "slug": "fs_1",
+          "img": "images/functions/fs_1_off.svg",
+          "created_at": "2022-10-11 10:51:01",
+          "updated_at": "2022-10-13 14:22:18"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Flange Squeal"
+      },
+      "f15": {
+        "number": 15,
+        "con_id": 17,
+        "type": "latching",
+        "icon": {
+          "id": 17,
+          "title": "Doors Closed",
+          "slug": "dc_1",
+          "img": "images/functions/dc_1_off.svg",
+          "created_at": "2022-10-11 10:51:41",
+          "updated_at": "2022-10-13 14:20:14"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Doors Closed"
+      },
+      "f16": {
+        "number": 16,
+        "con_id": 81,
+        "type": "momentary",
+        "icon": {
+          "id": 81,
+          "title": "Hand Brake",
+          "slug": "hb_1",
+          "img": "images/functions/hb_1_off.svg",
+          "created_at": "2023-03-08 17:04:52",
+          "updated_at": "2023-03-08 17:04:52"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Hand Brake"
+      },
+      "f17": {
+        "number": 17,
+        "con_id": 79,
+        "type": "latching",
+        "icon": {
+          "id": 79,
+          "title": "Detonators",
+          "slug": "deto_1",
+          "img": "images/functions/deto_1_off.svg",
+          "created_at": "2023-03-08 17:04:30",
+          "updated_at": "2023-03-08 17:04:30"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Detonators"
+      },
+      "f18": {
+        "number": 18,
+        "con_id": 31,
+        "type": "latching",
+        "icon": {
+          "id": 31,
+          "title": "Sander",
+          "slug": "sa_1",
+          "img": "images/functions/sa_1_off.svg",
+          "created_at": "2022-10-11 10:58:05",
+          "updated_at": "2022-11-29 17:21:14"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Sander"
+      },
+      "f19": {
+        "number": 19,
+        "con_id": 11,
+        "type": "momentary",
+        "icon": {
+          "id": 11,
+          "title": "Guards Whistle",
+          "slug": "gw_1",
+          "img": "images/functions/gw_1_off.svg",
+          "created_at": "2022-10-11 10:49:01",
+          "updated_at": "2022-10-13 14:36:12"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Guards Whistle"
+      },
+      "f20": {
+        "number": 20,
+        "con_id": 96,
+        "type": "momentary",
+        "icon": {
+          "id": 96,
+          "title": "Cab Start-Up",
+          "slug": "csa_1",
+          "img": "images/functions/csa_1_off.svg",
+          "created_at": "2024-05-16 12:22:42",
+          "updated_at": "2024-05-16 12:22:42"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Cab Start-Up"
+      },
+      "f21": {
+        "number": 21,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f22": {
+        "number": 22,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f23": {
+        "number": 23,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f24": {
+        "number": 24,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f25": {
+        "number": 25,
+        "con_id": 65,
+        "type": "latching",
+        "icon": {
+          "id": 65,
+          "title": "Shunting Mode",
+          "slug": "shnt_1",
+          "img": "images/functions/shnt_1_off.svg",
+          "created_at": "2022-10-12 09:21:46",
+          "updated_at": "2023-03-06 13:14:52"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Shunting Mode"
+      },
+      "f26": {
+        "number": 26,
+        "con_id": 89,
+        "type": "momentary",
+        "icon": {
+          "id": 89,
+          "title": "Creep Mode",
+          "slug": "crp_1",
+          "img": "images/functions/crp_1_off.svg",
+          "created_at": "2023-07-10 14:19:27",
+          "updated_at": "2023-07-10 14:23:32"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Creep Mode"
+      },
+      "f27": {
+        "number": 27,
+        "con_id": 87,
+        "type": "momentary",
+        "icon": {
+          "id": 87,
+          "title": "Brake",
+          "slug": "br_1",
+          "img": "images/functions/br_1_off.svg",
+          "created_at": "2023-03-08 17:06:48",
+          "updated_at": "2023-03-08 17:06:48"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Brake"
+      },
+      "f28": {
+        "number": 28,
+        "con_id": 68,
+        "type": "latching",
+        "icon": {
+          "id": 68,
+          "title": "AFC",
+          "slug": "afc_1",
+          "img": "images/functions/afc_1_off.svg",
+          "created_at": "2022-10-12 09:22:22",
+          "updated_at": "2023-03-06 13:16:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "AFC"
+      }
+    },
+    "cv_values": [
+      {
+        "cv": 1,
+        "value": 3
+      },
+      {
+        "cv": 2,
+        "value": 1
+      },
+      {
+        "cv": 3,
+        "value": 30
+      },
+      {
+        "cv": 4,
+        "value": 30
+      },
+      {
+        "cv": 5,
+        "value": 125
+      },
+      {
+        "cv": 6,
+        "value": 40
+      },
+      {
+        "cv": 7,
+        "value": 254
+      },
+      {
+        "cv": 12,
+        "value": null
+      },
+      {
+        "cv": 27,
+        "value": null
+      },
+      {
+        "cv": 29,
+        "value": 2
+      },
+      {
+        "cv": 120,
+        "value": 1
+      },
+      {
+        "cv": 121,
+        "value": 1
+      },
+      {
+        "cv": 122,
+        "value": null
+      },
+      {
+        "cv": 123,
+        "value": 5
+      },
+      {
+        "cv": 124,
+        "value": 3
+      },
+      {
+        "cv": 125,
+        "value": null
+      },
+      {
+        "cv": 126,
+        "value": 1
+      },
+      {
+        "cv": 158,
+        "value": 35
+      },
+      {
+        "cv": 213,
+        "value": null
+      }
+    ]
+  },
+  {
     "id": 136,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD064",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (00)",
@@ -37425,7 +38695,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-07-02 11:10:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 803",
     "slug": "class-803-1",
     "img": "images/products/SD064.png",
@@ -38035,7 +39305,7 @@
   },
   {
     "id": 86,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD065",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -38044,7 +39314,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "W1 (Rebuilt)",
     "slug": "w1-rebuilt",
     "img": "images/products/SD065.png",
@@ -38670,7 +39940,7 @@
   },
   {
     "id": 125,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD066",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -38679,7 +39949,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-26 12:05:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Class 8: Duke of Gloucester",
     "slug": "class-8-duke-of-gloucester",
     "img": "images/products/SD066.png",
@@ -39305,7 +40575,7 @@
   },
   {
     "id": 123,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD067",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -39314,7 +40584,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-26 12:05:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Castle Class",
     "slug": "castle-class-1",
     "img": "images/products/SD067.png",
@@ -39940,7 +41210,7 @@
   },
   {
     "id": 124,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD068",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -39949,7 +41219,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-26 12:05:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "Princess Royal Class",
     "slug": "princess-royal-class",
     "img": "images/products/SD068.png",
@@ -40575,7 +41845,7 @@
   },
   {
     "id": 129,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD069",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -40584,7 +41854,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-03-12 11:35:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:05",
     "title": "SR Class: Lord Nelson",
     "slug": "sr-class-lord-nelson-1",
     "img": "images/products/SD069.png",
@@ -41210,7 +42480,7 @@
   },
   {
     "id": 133,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD070",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (00)",
@@ -41219,7 +42489,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-06-19 11:40:04",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "MK4: DVT",
     "slug": "mk4-dvt",
     "img": "images/products/SD070.png",
@@ -41829,7 +43099,7 @@
   },
   {
     "id": 138,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD071",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -41838,7 +43108,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-10-03 10:50:05",
-    "updated_at": "2025-11-20 16:55:05",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "J36",
     "slug": "j36-1",
     "img": "images/products/SD071.png",
@@ -42464,7 +43734,7 @@
   },
   {
     "id": 144,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD072",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -42473,7 +43743,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-01-02 09:20:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "A2/2 A2/3",
     "slug": "a2-2-a2-3",
     "img": "images/products/SD072.png",
@@ -43099,7 +44369,7 @@
   },
   {
     "id": 151,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD073",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -43108,7 +44378,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "A2/2 Class: Steam Generator (SS)",
     "slug": "a2-2-class-steam-generator-ss",
     "img": "images/products/SD073.png",
@@ -43734,7 +45004,7 @@
   },
   {
     "id": 161,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD074",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -43743,7 +45013,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-11-20 16:55:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "Saint Class",
     "slug": "saint-class",
     "img": "images/products/SD074.png",
@@ -44369,7 +45639,7 @@
   },
   {
     "id": 152,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD077",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -44378,7 +45648,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 1,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Merchant Navy (Steam Generator)",
     "slug": "merchant-navy-steam-generator",
     "img": "images/products/SD077.png",
@@ -45004,7 +46274,7 @@
   },
   {
     "id": 150,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD078",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -45013,7 +46283,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 37 Police",
     "slug": "class-37-police",
     "img": "images/products/SD078.png",
@@ -45639,7 +46909,7 @@
   },
   {
     "id": 156,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD080",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -45648,7 +46918,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 57",
     "slug": "class-57",
     "img": "images/products/SD080.png",
@@ -46274,7 +47544,7 @@
   },
   {
     "id": 155,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD082",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (00)",
@@ -46283,7 +47553,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Class 43 HST (VP185)",
     "slug": "class-43-hst-vp185",
     "img": "images/products/SD082.png",
@@ -46908,8 +48178,643 @@
     ]
   },
   {
+    "id": 162,
+    "csvdata_id": 63,
+    "project_suite_sku": "SD085",
+    "loco_image_silhouette": "electric_1_sil",
+    "product_sub_category": "TXS: Electric (00)",
+    "product_item_scale": "0.76",
+    "product_hby_class": "Class_90",
+    "decoder_part_number": null,
+    "ASU_steam_unit": 0,
+    "created_at": "2026-02-11 10:45:07",
+    "updated_at": "2026-02-11 10:45:07",
+    "title": "Class 90",
+    "slug": "class-90",
+    "img": "images/products/SD085.png",
+    "manufacture": {
+      "id": 7,
+      "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
+      "name": "Other",
+      "slug": "other",
+      "logo": null,
+      "url": null,
+      "approved": 0,
+      "status": "PUBLISHED",
+      "weight": 0,
+      "data": {
+        "bgcolour": "#919191"
+      },
+      "created_at": "2023-11-29 17:35:35",
+      "updated_at": "2023-12-12 15:56:49",
+      "deleted_at": null
+    },
+    "functions": {
+      "f0": {
+        "number": 0,
+        "con_id": 2,
+        "type": "latching",
+        "icon": {
+          "id": 2,
+          "title": "Day Light",
+          "slug": "dl_1",
+          "img": "images/functions/dl_1_off.svg",
+          "created_at": "2022-10-11 10:43:10",
+          "updated_at": "2022-10-13 13:39:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Day Light"
+      },
+      "f1": {
+        "number": 1,
+        "con_id": 27,
+        "type": "latching",
+        "icon": {
+          "id": 27,
+          "title": "Sound on/ off",
+          "slug": "soo_1",
+          "img": "images/functions/soo_1_off.svg",
+          "created_at": "2022-10-11 10:56:44",
+          "updated_at": "2022-10-13 14:15:05"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Sound on/ off"
+      },
+      "f2": {
+        "number": 2,
+        "con_id": 25,
+        "type": "momentary",
+        "icon": {
+          "id": 25,
+          "title": "Multiple Horns - 1",
+          "slug": "mh_1",
+          "img": "images/functions/mh_1_off.svg",
+          "created_at": "2022-10-11 10:56:10",
+          "updated_at": "2022-10-13 14:16:02"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Multiple Horns - 1"
+      },
+      "f3": {
+        "number": 3,
+        "con_id": 26,
+        "type": "momentary",
+        "icon": {
+          "id": 26,
+          "title": "Multiple Horns - 2",
+          "slug": "mh_2",
+          "img": "images/functions/mh_2_off.svg",
+          "created_at": "2022-10-11 10:56:26",
+          "updated_at": "2022-10-13 14:15:33"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Multiple Horns - 2"
+      },
+      "f4": {
+        "number": 4,
+        "con_id": 5,
+        "type": "momentary",
+        "icon": {
+          "id": 5,
+          "title": "Brake",
+          "slug": "bs_1",
+          "img": "images/functions/bs_1_off.svg",
+          "created_at": "2022-10-11 10:45:10",
+          "updated_at": "2022-10-13 14:38:25"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Brake"
+      },
+      "f5": {
+        "number": 5,
+        "con_id": 96,
+        "type": "momentary",
+        "icon": {
+          "id": 96,
+          "title": "Cab Start-Up",
+          "slug": "csa_1",
+          "img": "images/functions/csa_1_off.svg",
+          "created_at": "2024-05-16 12:22:42",
+          "updated_at": "2024-05-16 12:22:42"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Cab Start-Up"
+      },
+      "f6": {
+        "number": 6,
+        "con_id": 79,
+        "type": "momentary",
+        "icon": {
+          "id": 79,
+          "title": "Detonators",
+          "slug": "deto_1",
+          "img": "images/functions/deto_1_off.svg",
+          "created_at": "2023-03-08 17:04:30",
+          "updated_at": "2023-03-08 17:04:30"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Detonators"
+      },
+      "f7": {
+        "number": 7,
+        "con_id": 85,
+        "type": "latching",
+        "icon": {
+          "id": 85,
+          "title": "Spirax Valv",
+          "slug": "spv_1",
+          "img": "images/functions/spv_1_off.svg",
+          "created_at": "2023-03-08 17:06:19",
+          "updated_at": "2023-03-08 17:06:19"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Spirax Valv"
+      },
+      "f8": {
+        "number": 8,
+        "con_id": 97,
+        "type": "latching",
+        "icon": {
+          "id": 97,
+          "title": "Doors Open/Closed",
+          "slug": "doc_1",
+          "img": "images/functions/doc_1_off.svg",
+          "created_at": "2024-05-16 12:22:42",
+          "updated_at": "2024-05-16 12:22:42"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Doors Open/Closed"
+      },
+      "f9": {
+        "number": 9,
+        "con_id": 73,
+        "type": "momentary",
+        "icon": {
+          "id": 73,
+          "title": "AWS Test",
+          "slug": "aws_1",
+          "img": "images/functions/aws_1_off.svg",
+          "created_at": "2022-11-29 17:14:16",
+          "updated_at": "2023-03-06 13:15:27"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "AWS Test"
+      },
+      "f10": {
+        "number": 10,
+        "con_id": 88,
+        "type": "latching",
+        "icon": {
+          "id": 88,
+          "title": "Compressor",
+          "slug": "comp_1",
+          "img": "images/functions/comp_1_off.svg",
+          "created_at": "2023-03-08 17:07:00",
+          "updated_at": "2023-03-08 17:07:00"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Compressor"
+      },
+      "f11": {
+        "number": 11,
+        "con_id": 70,
+        "type": "latching",
+        "icon": {
+          "id": 70,
+          "title": "Windscreen Wipers",
+          "slug": "ww_1",
+          "img": "images/functions/ww_1_off.svg",
+          "created_at": "2022-11-29 17:12:34",
+          "updated_at": "2023-03-06 13:16:08"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": 1
+        },
+        "name": "Windscreen Wipers"
+      },
+      "f12": {
+        "number": 12,
+        "con_id": 131,
+        "type": "latching",
+        "icon": {
+          "id": 131,
+          "title": "Rail Clack",
+          "slug": "rclk_1",
+          "img": "images/functions/rclk_1_off.svg",
+          "created_at": "2024-05-16 12:22:42",
+          "updated_at": "2024-05-16 12:22:42"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Rail Clack"
+      },
+      "f13": {
+        "number": 13,
+        "con_id": 135,
+        "type": "momentary",
+        "icon": {
+          "id": 135,
+          "title": "Pantograph - up",
+          "slug": "parc_1",
+          "img": "images/functions/parc_1_off.svg",
+          "created_at": "2024-05-16 16:20:38",
+          "updated_at": "2024-05-16 16:20:38"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Pantograph - up"
+      },
+      "f14": {
+        "number": 14,
+        "con_id": 15,
+        "type": "latching",
+        "icon": {
+          "id": 15,
+          "title": "Flange Squeal",
+          "slug": "fs_1",
+          "img": "images/functions/fs_1_off.svg",
+          "created_at": "2022-10-11 10:51:01",
+          "updated_at": "2022-10-13 14:22:18"
+        },
+        "afc": {
+          "stationary": null,
+          "running": 1
+        },
+        "name": "Flange Squeal"
+      },
+      "f15": {
+        "number": 15,
+        "con_id": 17,
+        "type": "momentary",
+        "icon": {
+          "id": 17,
+          "title": "Doors Closed",
+          "slug": "dc_1",
+          "img": "images/functions/dc_1_off.svg",
+          "created_at": "2022-10-11 10:51:41",
+          "updated_at": "2022-10-13 14:20:14"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Doors Closed"
+      },
+      "f16": {
+        "number": 16,
+        "con_id": 12,
+        "type": "momentary",
+        "icon": {
+          "id": 12,
+          "title": "Coupling",
+          "slug": "cpl_1",
+          "img": "images/functions/cpl_1_off.svg",
+          "created_at": "2022-10-11 10:49:31",
+          "updated_at": "2022-10-13 14:24:23"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Coupling"
+      },
+      "f17": {
+        "number": 17,
+        "con_id": 57,
+        "type": "latching",
+        "icon": {
+          "id": 57,
+          "title": "General Sounds - Announcement",
+          "slug": "gsa_1",
+          "img": "images/functions/gsa_1_off.svg",
+          "created_at": "2022-10-11 11:14:26",
+          "updated_at": "2022-10-13 13:47:04"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "General Sounds - Announcement"
+      },
+      "f18": {
+        "number": 18,
+        "con_id": 40,
+        "type": "latching",
+        "icon": {
+          "id": 40,
+          "title": "Carriages Passing",
+          "slug": "cp_1",
+          "img": "images/functions/cp_1_off.svg",
+          "created_at": "2022-10-11 11:02:29",
+          "updated_at": "2022-10-13 13:53:56"
+        },
+        "afc": {
+          "stationary": 1,
+          "running": null
+        },
+        "name": "Carriages Passing"
+      },
+      "f19": {
+        "number": 19,
+        "con_id": 11,
+        "type": "momentary",
+        "icon": {
+          "id": 11,
+          "title": "Guards Whistle",
+          "slug": "gw_1",
+          "img": "images/functions/gw_1_off.svg",
+          "created_at": "2022-10-11 10:49:01",
+          "updated_at": "2022-10-13 14:36:12"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Guards Whistle"
+      },
+      "f20": {
+        "number": 20,
+        "con_id": 77,
+        "type": "momentary",
+        "icon": {
+          "id": 77,
+          "title": "Buffering Up",
+          "slug": "bufu_1",
+          "img": "images/functions/bufu_1_off.svg",
+          "created_at": "2023-03-08 17:04:06",
+          "updated_at": "2023-03-08 17:04:06"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Buffering Up"
+      },
+      "f21": {
+        "number": 21,
+        "con_id": 2,
+        "type": "latching",
+        "icon": {
+          "id": 2,
+          "title": "Day Light",
+          "slug": "dl_1",
+          "img": "images/functions/dl_1_off.svg",
+          "created_at": "2022-10-11 10:43:10",
+          "updated_at": "2022-10-13 13:39:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Day Light"
+      },
+      "f22": {
+        "number": 22,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f23": {
+        "number": 23,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f24": {
+        "number": 24,
+        "con_id": 22,
+        "type": "latching",
+        "icon": {
+          "id": 22,
+          "title": "Aux Lighting",
+          "slug": "auxl_1",
+          "img": "images/functions/auxl_1_off.svg",
+          "created_at": "2022-10-11 10:53:59",
+          "updated_at": "2022-10-13 14:17:11"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Aux Lighting"
+      },
+      "f25": {
+        "number": 25,
+        "con_id": 65,
+        "type": "latching",
+        "icon": {
+          "id": 65,
+          "title": "Shunting Mode",
+          "slug": "shnt_1",
+          "img": "images/functions/shnt_1_off.svg",
+          "created_at": "2022-10-12 09:21:46",
+          "updated_at": "2023-03-06 13:14:52"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Shunting Mode"
+      },
+      "f26": {
+        "number": 26,
+        "con_id": 89,
+        "type": "momentary",
+        "icon": {
+          "id": 89,
+          "title": "Creep Mode",
+          "slug": "crp_1",
+          "img": "images/functions/crp_1_off.svg",
+          "created_at": "2023-07-10 14:19:27",
+          "updated_at": "2023-07-10 14:23:32"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Creep Mode"
+      },
+      "f27": {
+        "number": 27,
+        "con_id": 87,
+        "type": "momentary",
+        "icon": {
+          "id": 87,
+          "title": "Brake",
+          "slug": "br_1",
+          "img": "images/functions/br_1_off.svg",
+          "created_at": "2023-03-08 17:06:48",
+          "updated_at": "2023-03-08 17:06:48"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "Brake"
+      },
+      "f28": {
+        "number": 28,
+        "con_id": 68,
+        "type": "latching",
+        "icon": {
+          "id": 68,
+          "title": "AFC",
+          "slug": "afc_1",
+          "img": "images/functions/afc_1_off.svg",
+          "created_at": "2022-10-12 09:22:22",
+          "updated_at": "2023-03-06 13:16:39"
+        },
+        "afc": {
+          "stationary": null,
+          "running": null
+        },
+        "name": "AFC"
+      }
+    },
+    "cv_values": [
+      {
+        "cv": 1,
+        "value": 3
+      },
+      {
+        "cv": 2,
+        "value": 1
+      },
+      {
+        "cv": 3,
+        "value": 30
+      },
+      {
+        "cv": 4,
+        "value": 25
+      },
+      {
+        "cv": 5,
+        "value": 255
+      },
+      {
+        "cv": 6,
+        "value": 72
+      },
+      {
+        "cv": 7,
+        "value": 254
+      },
+      {
+        "cv": 12,
+        "value": null
+      },
+      {
+        "cv": 27,
+        "value": null
+      },
+      {
+        "cv": 29,
+        "value": 2
+      },
+      {
+        "cv": 120,
+        "value": 1
+      },
+      {
+        "cv": 121,
+        "value": 1
+      },
+      {
+        "cv": 122,
+        "value": null
+      },
+      {
+        "cv": 123,
+        "value": 5
+      },
+      {
+        "cv": 124,
+        "value": 3
+      },
+      {
+        "cv": 125,
+        "value": null
+      },
+      {
+        "cv": 126,
+        "value": 1
+      },
+      {
+        "cv": 158,
+        "value": 35
+      },
+      {
+        "cv": 213,
+        "value": null
+      }
+    ]
+  },
+  {
     "id": 147,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD500",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (H0)",
@@ -46918,7 +48823,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-06-17 16:45:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "E656",
     "slug": "e656",
     "img": "images/products/SD500.png",
@@ -47528,7 +49433,7 @@
   },
   {
     "id": 153,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD502",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (TT)",
@@ -47537,7 +49442,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Euro TT Class 66",
     "slug": "euro-tt-class-66",
     "img": "images/products/SD502.png",
@@ -48147,7 +50052,7 @@
   },
   {
     "id": 142,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD504",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (TT)",
@@ -48156,7 +50061,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-01-02 09:20:06",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "functions": {
       "f0": {
         "number": 0,
@@ -48762,7 +50667,7 @@
   },
   {
     "id": 157,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD508",
     "loco_image_silhouette": "diesel_1_sil",
     "product_sub_category": "TXS: Diesel (H0)",
@@ -48771,7 +50676,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-09-11 14:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "TEE \"Mistral 69\" coach",
     "slug": "tee-mistral-69-coach",
     "img": "images/products/SD508.png",
@@ -49255,7 +51160,7 @@
   },
   {
     "id": 148,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD509",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (H0)",
@@ -49264,7 +51169,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "Gr.685",
     "slug": "gr-685",
     "img": "images/products/SD509.png",
@@ -49874,7 +51779,7 @@
   },
   {
     "id": 154,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD510",
     "loco_image_silhouette": "electric_1_sil",
     "product_sub_category": "TXS: Electric (H0)",
@@ -49883,7 +51788,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2025-08-07 12:30:07",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:06",
     "title": "E645/E646",
     "slug": "e645-e646",
     "img": "images/products/SD510.png",
@@ -50493,7 +52398,7 @@
   },
   {
     "id": 70,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD999",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -50502,7 +52407,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2023-01-19 12:15:02",
-    "updated_at": "2025-11-20 16:55:04",
+    "updated_at": "2026-02-11 10:45:04",
     "title": "Default Profile",
     "slug": "default-profile",
     "img": "images/products/SD999.png",
@@ -51128,7 +53033,7 @@
   },
   {
     "id": 128,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "SD65535",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TXS: Steam (00)",
@@ -51137,7 +53042,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-29 10:40:02",
-    "updated_at": "2025-11-20 16:55:02",
+    "updated_at": "2026-02-11 10:45:03",
     "functions": {
       "f0": {
         "number": 0,
@@ -51743,7 +53648,7 @@
   },
   {
     "id": 91,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R3244TTS",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -51752,7 +53657,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "Class 8: Duke of Gloucester",
     "slug": "duke-of-gloucester",
     "img": "images/products/SD066.png",
@@ -52198,7 +54103,7 @@
   },
   {
     "id": 92,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R7142",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -52207,7 +54112,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "P2: Cock o' the North",
     "slug": "cock-o-the-north",
     "img": "images/products/SD008.png",
@@ -52653,7 +54558,7 @@
   },
   {
     "id": 96,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R7294",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -52662,7 +54567,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "Hall Class",
     "slug": "hall-class",
     "img": "images/products/SD061.png",
@@ -53108,7 +55013,7 @@
   },
   {
     "id": 95,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8106",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -53117,7 +55022,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "A1 / A3",
     "slug": "a1-a3-1",
     "img": "images/products/SD001.png",
@@ -53563,7 +55468,7 @@
   },
   {
     "id": 93,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8107",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -53572,7 +55477,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "A4",
     "slug": "a4-3",
     "img": "images/products/SD002.png",
@@ -54018,7 +55923,7 @@
   },
   {
     "id": 94,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8108",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -54027,7 +55932,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "A1: Tornado",
     "slug": "a1-tornado",
     "img": "images/products/SD010.png",
@@ -54473,7 +56378,7 @@
   },
   {
     "id": 100,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8109",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -54482,7 +56387,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "King Class",
     "slug": "king-class",
     "img": "images/products/SD059.png",
@@ -54928,7 +56833,7 @@
   },
   {
     "id": 99,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8110",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -54937,7 +56842,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "Castle Class",
     "slug": "castle-class",
     "img": "images/products/SD067.png",
@@ -55383,7 +57288,7 @@
   },
   {
     "id": 97,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8113",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -55392,7 +57297,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "9F",
     "slug": "9f-2",
     "img": "images/products/SD026.png",
@@ -55837,535 +57742,8 @@
     ]
   },
   {
-    "id": 105,
-    "csvdata_id": 62,
-    "project_suite_sku": "R8114",
-    "loco_image_silhouette": "steam_1_sil",
-    "product_sub_category": "TTS: Steam (00)",
-    "product_item_scale": "0.76",
-    "product_hby_class": "Black_5",
-    "decoder_part_number": null,
-    "ASU_steam_unit": 0,
-    "created_at": "2024-02-12 15:55:05",
-    "updated_at": "2025-11-20 16:55:07",
-    "title": "Black 5",
-    "slug": "black-5-1",
-    "img": "images/products/SD029.png",
-    "manufacture": {
-      "id": 7,
-      "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
-      "name": "Other",
-      "slug": "other",
-      "logo": null,
-      "url": null,
-      "approved": 0,
-      "status": "PUBLISHED",
-      "weight": 0,
-      "data": {
-        "bgcolour": "#919191"
-      },
-      "created_at": "2023-11-29 17:35:35",
-      "updated_at": "2023-12-12 15:56:49",
-      "deleted_at": null
-    },
-    "functions": {
-      "f0": {
-        "number": 0,
-        "con_id": 2,
-        "type": "latching",
-        "icon": {
-          "id": 2,
-          "title": "Day Light",
-          "slug": "dl_1",
-          "img": "images/functions/dl_1_off.svg",
-          "created_at": "2022-10-11 10:43:10",
-          "updated_at": "2022-10-13 13:39:39"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Day Light"
-      },
-      "f1": {
-        "number": 1,
-        "con_id": 27,
-        "type": "latching",
-        "icon": {
-          "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
-          "created_at": "2022-10-11 10:56:44",
-          "updated_at": "2022-10-13 14:15:05"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Sound on/ off"
-      },
-      "f2": {
-        "number": 2,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f3": {
-        "number": 3,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f4": {
-        "number": 4,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f5": {
-        "number": 5,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f6": {
-        "number": 6,
-        "con_id": 7,
-        "type": "momentary",
-        "icon": {
-          "id": 7,
-          "title": "Wheel Slip",
-          "slug": "ws_1",
-          "img": "images/functions/ws_1_off.svg",
-          "created_at": "2022-10-11 10:46:06",
-          "updated_at": "2022-10-13 14:37:28"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Wheel Slip"
-      },
-      "f7": {
-        "number": 7,
-        "con_id": 8,
-        "type": "latching",
-        "icon": {
-          "id": 8,
-          "title": "Coal Shoveling",
-          "slug": "cs_1",
-          "img": "images/functions/cs_1_off.svg",
-          "created_at": "2022-10-11 10:47:36",
-          "updated_at": "2022-10-13 14:36:57"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Coal Shoveling"
-      },
-      "f8": {
-        "number": 8,
-        "con_id": 20,
-        "type": "latching",
-        "icon": {
-          "id": 20,
-          "title": "Blow Down",
-          "slug": "bd_1",
-          "img": "images/functions/bd_1_off.svg",
-          "created_at": "2022-10-11 10:53:07",
-          "updated_at": "2022-10-13 14:18:37"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Blow Down"
-      },
-      "f9": {
-        "number": 9,
-        "con_id": 10,
-        "type": "latching",
-        "icon": {
-          "id": 10,
-          "title": "Safety Valve",
-          "slug": "sv_1",
-          "img": "images/functions/sv_1_off.svg",
-          "created_at": "2022-10-11 10:48:31",
-          "updated_at": "2022-10-13 13:43:34"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Safety Valve"
-      },
-      "f10": {
-        "number": 10,
-        "con_id": 9,
-        "type": "latching",
-        "icon": {
-          "id": 9,
-          "title": "Injector Valve",
-          "slug": "iv_1",
-          "img": "images/functions/iv_1_off.svg",
-          "created_at": "2022-10-11 10:47:59",
-          "updated_at": "2022-10-13 14:24:52"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Injector Valve"
-      },
-      "f11": {
-        "number": 11,
-        "con_id": 6,
-        "type": "latching",
-        "icon": {
-          "id": 6,
-          "title": "Cylinder Cock",
-          "slug": "cc_1",
-          "img": "images/functions/cc_1_off.svg",
-          "created_at": "2022-10-11 10:45:36",
-          "updated_at": "2022-10-13 14:37:54"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Cylinder Cock"
-      },
-      "f12": {
-        "number": 12,
-        "con_id": 5,
-        "type": "momentary",
-        "icon": {
-          "id": 5,
-          "title": "Brake",
-          "slug": "bs_1",
-          "img": "images/functions/bs_1_off.svg",
-          "created_at": "2022-10-11 10:45:10",
-          "updated_at": "2022-10-13 14:38:25"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Brake"
-      },
-      "f13": {
-        "number": 13,
-        "con_id": 16,
-        "type": "latching",
-        "icon": {
-          "id": 16,
-          "title": "Blower",
-          "slug": "blwr_1",
-          "img": "images/functions/blwr_1_off.svg",
-          "created_at": "2022-10-11 10:51:16",
-          "updated_at": "2022-10-13 14:21:26"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Blower"
-      },
-      "f14": {
-        "number": 14,
-        "con_id": 11,
-        "type": "momentary",
-        "icon": {
-          "id": 11,
-          "title": "Guards Whistle",
-          "slug": "gw_1",
-          "img": "images/functions/gw_1_off.svg",
-          "created_at": "2022-10-11 10:49:01",
-          "updated_at": "2022-10-13 14:36:12"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Guards Whistle"
-      },
-      "f15": {
-        "number": 15,
-        "con_id": 12,
-        "type": "momentary",
-        "icon": {
-          "id": 12,
-          "title": "Coupling",
-          "slug": "cpl_1",
-          "img": "images/functions/cpl_1_off.svg",
-          "created_at": "2022-10-11 10:49:31",
-          "updated_at": "2022-10-13 14:24:23"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Coupling"
-      },
-      "f16": {
-        "number": 16,
-        "con_id": 18,
-        "type": "latching",
-        "icon": {
-          "id": 18,
-          "title": "Fireman's Breakfast",
-          "slug": "fb_1",
-          "img": "images/functions/fb_1_off.svg",
-          "created_at": "2022-10-11 10:52:15",
-          "updated_at": "2022-10-13 14:19:38"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Fireman's Breakfast"
-      },
-      "f17": {
-        "number": 17,
-        "con_id": 19,
-        "type": "latching",
-        "icon": {
-          "id": 19,
-          "title": "Chufing/Coasting Sound",
-          "slug": "ccs_1",
-          "img": "images/functions/ccs_1_off.svg",
-          "created_at": "2022-10-11 10:52:42",
-          "updated_at": "2022-10-13 14:19:00"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Chufing/Coasting Sound"
-      },
-      "f18": {
-        "number": 18,
-        "con_id": 22,
-        "type": "latching",
-        "icon": {
-          "id": 22,
-          "title": "Aux Lighting",
-          "slug": "auxl_1",
-          "img": "images/functions/auxl_1_off.svg",
-          "created_at": "2022-10-11 10:53:59",
-          "updated_at": "2022-10-13 14:17:11"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Aux Lighting"
-      },
-      "f19": {
-        "number": 19,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f20": {
-        "number": 20,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f21": {
-        "number": 21,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f22": {
-        "number": 22,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      }
-    },
-    "cv_values": [
-      {
-        "cv": 1,
-        "value": null
-      },
-      {
-        "cv": 2,
-        "value": null
-      },
-      {
-        "cv": 3,
-        "value": null
-      },
-      {
-        "cv": 4,
-        "value": null
-      },
-      {
-        "cv": 5,
-        "value": null
-      },
-      {
-        "cv": 6,
-        "value": null
-      },
-      {
-        "cv": 7,
-        "value": null
-      },
-      {
-        "cv": 12,
-        "value": null
-      },
-      {
-        "cv": 27,
-        "value": null
-      },
-      {
-        "cv": 29,
-        "value": null
-      },
-      {
-        "cv": 120,
-        "value": null
-      },
-      {
-        "cv": 121,
-        "value": null
-      },
-      {
-        "cv": 122,
-        "value": null
-      },
-      {
-        "cv": 123,
-        "value": null
-      },
-      {
-        "cv": 124,
-        "value": null
-      },
-      {
-        "cv": 125,
-        "value": null
-      },
-      {
-        "cv": 126,
-        "value": null
-      },
-      {
-        "cv": 158,
-        "value": null
-      },
-      {
-        "cv": 213,
-        "value": null
-      }
-    ]
-  },
-  {
     "id": 103,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8115",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -56374,7 +57752,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:05",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "Merchant Navy (Original)",
     "slug": "merchant-navy-original",
     "img": "images/products/SD020.png",
@@ -56891,535 +58269,8 @@
     ]
   },
   {
-    "id": 104,
-    "csvdata_id": 62,
-    "project_suite_sku": "R8116",
-    "loco_image_silhouette": "steam_1_sil",
-    "product_sub_category": "TTS: Steam (00)",
-    "product_item_scale": "0.76",
-    "product_hby_class": "Maunsell_S15",
-    "decoder_part_number": null,
-    "ASU_steam_unit": 0,
-    "created_at": "2024-02-12 15:55:05",
-    "updated_at": "2025-11-20 16:55:07",
-    "title": "S15: Maunsell",
-    "slug": "s15-maunsell",
-    "img": "images/products/SD021.png",
-    "manufacture": {
-      "id": 7,
-      "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
-      "name": "Other",
-      "slug": "other",
-      "logo": null,
-      "url": null,
-      "approved": 0,
-      "status": "PUBLISHED",
-      "weight": 0,
-      "data": {
-        "bgcolour": "#919191"
-      },
-      "created_at": "2023-11-29 17:35:35",
-      "updated_at": "2023-12-12 15:56:49",
-      "deleted_at": null
-    },
-    "functions": {
-      "f0": {
-        "number": 0,
-        "con_id": 2,
-        "type": "latching",
-        "icon": {
-          "id": 2,
-          "title": "Day Light",
-          "slug": "dl_1",
-          "img": "images/functions/dl_1_off.svg",
-          "created_at": "2022-10-11 10:43:10",
-          "updated_at": "2022-10-13 13:39:39"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Day Light"
-      },
-      "f1": {
-        "number": 1,
-        "con_id": 27,
-        "type": "latching",
-        "icon": {
-          "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
-          "created_at": "2022-10-11 10:56:44",
-          "updated_at": "2022-10-13 14:15:05"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Sound on/ off"
-      },
-      "f2": {
-        "number": 2,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f3": {
-        "number": 3,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f4": {
-        "number": 4,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f5": {
-        "number": 5,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f6": {
-        "number": 6,
-        "con_id": 7,
-        "type": "momentary",
-        "icon": {
-          "id": 7,
-          "title": "Wheel Slip",
-          "slug": "ws_1",
-          "img": "images/functions/ws_1_off.svg",
-          "created_at": "2022-10-11 10:46:06",
-          "updated_at": "2022-10-13 14:37:28"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Wheel Slip"
-      },
-      "f7": {
-        "number": 7,
-        "con_id": 8,
-        "type": "latching",
-        "icon": {
-          "id": 8,
-          "title": "Coal Shoveling",
-          "slug": "cs_1",
-          "img": "images/functions/cs_1_off.svg",
-          "created_at": "2022-10-11 10:47:36",
-          "updated_at": "2022-10-13 14:36:57"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Coal Shoveling"
-      },
-      "f8": {
-        "number": 8,
-        "con_id": 20,
-        "type": "latching",
-        "icon": {
-          "id": 20,
-          "title": "Blow Down",
-          "slug": "bd_1",
-          "img": "images/functions/bd_1_off.svg",
-          "created_at": "2022-10-11 10:53:07",
-          "updated_at": "2022-10-13 14:18:37"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Blow Down"
-      },
-      "f9": {
-        "number": 9,
-        "con_id": 10,
-        "type": "latching",
-        "icon": {
-          "id": 10,
-          "title": "Safety Valve",
-          "slug": "sv_1",
-          "img": "images/functions/sv_1_off.svg",
-          "created_at": "2022-10-11 10:48:31",
-          "updated_at": "2022-10-13 13:43:34"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Safety Valve"
-      },
-      "f10": {
-        "number": 10,
-        "con_id": 9,
-        "type": "latching",
-        "icon": {
-          "id": 9,
-          "title": "Injector Valve",
-          "slug": "iv_1",
-          "img": "images/functions/iv_1_off.svg",
-          "created_at": "2022-10-11 10:47:59",
-          "updated_at": "2022-10-13 14:24:52"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Injector Valve"
-      },
-      "f11": {
-        "number": 11,
-        "con_id": 6,
-        "type": "latching",
-        "icon": {
-          "id": 6,
-          "title": "Cylinder Cock",
-          "slug": "cc_1",
-          "img": "images/functions/cc_1_off.svg",
-          "created_at": "2022-10-11 10:45:36",
-          "updated_at": "2022-10-13 14:37:54"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Cylinder Cock"
-      },
-      "f12": {
-        "number": 12,
-        "con_id": 5,
-        "type": "momentary",
-        "icon": {
-          "id": 5,
-          "title": "Brake",
-          "slug": "bs_1",
-          "img": "images/functions/bs_1_off.svg",
-          "created_at": "2022-10-11 10:45:10",
-          "updated_at": "2022-10-13 14:38:25"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Brake"
-      },
-      "f13": {
-        "number": 13,
-        "con_id": 16,
-        "type": "latching",
-        "icon": {
-          "id": 16,
-          "title": "Blower",
-          "slug": "blwr_1",
-          "img": "images/functions/blwr_1_off.svg",
-          "created_at": "2022-10-11 10:51:16",
-          "updated_at": "2022-10-13 14:21:26"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Blower"
-      },
-      "f14": {
-        "number": 14,
-        "con_id": 11,
-        "type": "momentary",
-        "icon": {
-          "id": 11,
-          "title": "Guards Whistle",
-          "slug": "gw_1",
-          "img": "images/functions/gw_1_off.svg",
-          "created_at": "2022-10-11 10:49:01",
-          "updated_at": "2022-10-13 14:36:12"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Guards Whistle"
-      },
-      "f15": {
-        "number": 15,
-        "con_id": 12,
-        "type": "momentary",
-        "icon": {
-          "id": 12,
-          "title": "Coupling",
-          "slug": "cpl_1",
-          "img": "images/functions/cpl_1_off.svg",
-          "created_at": "2022-10-11 10:49:31",
-          "updated_at": "2022-10-13 14:24:23"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Coupling"
-      },
-      "f16": {
-        "number": 16,
-        "con_id": 18,
-        "type": "latching",
-        "icon": {
-          "id": 18,
-          "title": "Fireman's Breakfast",
-          "slug": "fb_1",
-          "img": "images/functions/fb_1_off.svg",
-          "created_at": "2022-10-11 10:52:15",
-          "updated_at": "2022-10-13 14:19:38"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Fireman's Breakfast"
-      },
-      "f17": {
-        "number": 17,
-        "con_id": 19,
-        "type": "latching",
-        "icon": {
-          "id": 19,
-          "title": "Chufing/Coasting Sound",
-          "slug": "ccs_1",
-          "img": "images/functions/ccs_1_off.svg",
-          "created_at": "2022-10-11 10:52:42",
-          "updated_at": "2022-10-13 14:19:00"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Chufing/Coasting Sound"
-      },
-      "f18": {
-        "number": 18,
-        "con_id": 22,
-        "type": "latching",
-        "icon": {
-          "id": 22,
-          "title": "Aux Lighting",
-          "slug": "auxl_1",
-          "img": "images/functions/auxl_1_off.svg",
-          "created_at": "2022-10-11 10:53:59",
-          "updated_at": "2022-10-13 14:17:11"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Aux Lighting"
-      },
-      "f19": {
-        "number": 19,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f20": {
-        "number": 20,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f21": {
-        "number": 21,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f22": {
-        "number": 22,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      }
-    },
-    "cv_values": [
-      {
-        "cv": 1,
-        "value": null
-      },
-      {
-        "cv": 2,
-        "value": null
-      },
-      {
-        "cv": 3,
-        "value": null
-      },
-      {
-        "cv": 4,
-        "value": null
-      },
-      {
-        "cv": 5,
-        "value": null
-      },
-      {
-        "cv": 6,
-        "value": null
-      },
-      {
-        "cv": 7,
-        "value": null
-      },
-      {
-        "cv": 12,
-        "value": null
-      },
-      {
-        "cv": 27,
-        "value": null
-      },
-      {
-        "cv": 29,
-        "value": null
-      },
-      {
-        "cv": 120,
-        "value": null
-      },
-      {
-        "cv": 121,
-        "value": null
-      },
-      {
-        "cv": 122,
-        "value": null
-      },
-      {
-        "cv": 123,
-        "value": null
-      },
-      {
-        "cv": 124,
-        "value": null
-      },
-      {
-        "cv": 125,
-        "value": null
-      },
-      {
-        "cv": 126,
-        "value": null
-      },
-      {
-        "cv": 158,
-        "value": null
-      },
-      {
-        "cv": 213,
-        "value": null
-      }
-    ]
-  },
-  {
     "id": 102,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "R8117",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -57428,7 +58279,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:05",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "Princess Coronation",
     "slug": "princess-coronation-1",
     "img": "images/products/SD011.png",
@@ -57928,7 +58779,7 @@
   },
   {
     "id": 101,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "X12013",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -57937,7 +58788,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:05",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "2P",
     "slug": "2p-1",
     "img": "images/products/SD016.png",
@@ -58383,7 +59234,7 @@
   },
   {
     "id": 98,
-    "csvdata_id": 62,
+    "csvdata_id": 63,
     "project_suite_sku": "X12014",
     "loco_image_silhouette": "steam_1_sil",
     "product_sub_category": "TTS: Steam (00)",
@@ -58392,7 +59243,7 @@
     "decoder_part_number": null,
     "ASU_steam_unit": 0,
     "created_at": "2024-02-12 15:55:04",
-    "updated_at": "2025-11-20 16:55:06",
+    "updated_at": "2026-02-11 10:45:07",
     "title": "4F",
     "slug": "4f-1",
     "img": "images/products/SD017.png",
@@ -58755,533 +59606,6 @@
           "running": null
         },
         "name": "Aux Lighting"
-      }
-    },
-    "cv_values": [
-      {
-        "cv": 1,
-        "value": null
-      },
-      {
-        "cv": 2,
-        "value": null
-      },
-      {
-        "cv": 3,
-        "value": null
-      },
-      {
-        "cv": 4,
-        "value": null
-      },
-      {
-        "cv": 5,
-        "value": null
-      },
-      {
-        "cv": 6,
-        "value": null
-      },
-      {
-        "cv": 7,
-        "value": null
-      },
-      {
-        "cv": 12,
-        "value": null
-      },
-      {
-        "cv": 27,
-        "value": null
-      },
-      {
-        "cv": 29,
-        "value": null
-      },
-      {
-        "cv": 120,
-        "value": null
-      },
-      {
-        "cv": 121,
-        "value": null
-      },
-      {
-        "cv": 122,
-        "value": null
-      },
-      {
-        "cv": 123,
-        "value": null
-      },
-      {
-        "cv": 124,
-        "value": null
-      },
-      {
-        "cv": 125,
-        "value": null
-      },
-      {
-        "cv": 126,
-        "value": null
-      },
-      {
-        "cv": 158,
-        "value": null
-      },
-      {
-        "cv": 213,
-        "value": null
-      }
-    ]
-  },
-  {
-    "id": 106,
-    "csvdata_id": 62,
-    "project_suite_sku": "X12754",
-    "loco_image_silhouette": "steam_1_sil",
-    "product_sub_category": "TTS: Steam (00)",
-    "product_item_scale": "0.76",
-    "product_hby_class": "Lord_Nelson",
-    "decoder_part_number": null,
-    "ASU_steam_unit": 0,
-    "created_at": "2024-02-12 15:55:05",
-    "updated_at": "2025-11-20 16:55:07",
-    "title": "SR Class: Lord Nelson",
-    "slug": "sr-class-lord-nelson",
-    "img": "images/products/SD069.png",
-    "manufacture": {
-      "id": 7,
-      "uuid": "c8h5LPs6CEUHNIfqI2e6Bl2E6J67q7ieiFv8",
-      "name": "Other",
-      "slug": "other",
-      "logo": null,
-      "url": null,
-      "approved": 0,
-      "status": "PUBLISHED",
-      "weight": 0,
-      "data": {
-        "bgcolour": "#919191"
-      },
-      "created_at": "2023-11-29 17:35:35",
-      "updated_at": "2023-12-12 15:56:49",
-      "deleted_at": null
-    },
-    "functions": {
-      "f0": {
-        "number": 0,
-        "con_id": 2,
-        "type": "latching",
-        "icon": {
-          "id": 2,
-          "title": "Day Light",
-          "slug": "dl_1",
-          "img": "images/functions/dl_1_off.svg",
-          "created_at": "2022-10-11 10:43:10",
-          "updated_at": "2022-10-13 13:39:39"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Day Light"
-      },
-      "f1": {
-        "number": 1,
-        "con_id": 27,
-        "type": "latching",
-        "icon": {
-          "id": 27,
-          "title": "Sound on/ off",
-          "slug": "soo_1",
-          "img": "images/functions/soo_1_off.svg",
-          "created_at": "2022-10-11 10:56:44",
-          "updated_at": "2022-10-13 14:15:05"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Sound on/ off"
-      },
-      "f2": {
-        "number": 2,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f3": {
-        "number": 3,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f4": {
-        "number": 4,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f5": {
-        "number": 5,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f6": {
-        "number": 6,
-        "con_id": 7,
-        "type": "momentary",
-        "icon": {
-          "id": 7,
-          "title": "Wheel Slip",
-          "slug": "ws_1",
-          "img": "images/functions/ws_1_off.svg",
-          "created_at": "2022-10-11 10:46:06",
-          "updated_at": "2022-10-13 14:37:28"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Wheel Slip"
-      },
-      "f7": {
-        "number": 7,
-        "con_id": 8,
-        "type": "latching",
-        "icon": {
-          "id": 8,
-          "title": "Coal Shoveling",
-          "slug": "cs_1",
-          "img": "images/functions/cs_1_off.svg",
-          "created_at": "2022-10-11 10:47:36",
-          "updated_at": "2022-10-13 14:36:57"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Coal Shoveling"
-      },
-      "f8": {
-        "number": 8,
-        "con_id": 20,
-        "type": "latching",
-        "icon": {
-          "id": 20,
-          "title": "Blow Down",
-          "slug": "bd_1",
-          "img": "images/functions/bd_1_off.svg",
-          "created_at": "2022-10-11 10:53:07",
-          "updated_at": "2022-10-13 14:18:37"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Blow Down"
-      },
-      "f9": {
-        "number": 9,
-        "con_id": 10,
-        "type": "latching",
-        "icon": {
-          "id": 10,
-          "title": "Safety Valve",
-          "slug": "sv_1",
-          "img": "images/functions/sv_1_off.svg",
-          "created_at": "2022-10-11 10:48:31",
-          "updated_at": "2022-10-13 13:43:34"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Safety Valve"
-      },
-      "f10": {
-        "number": 10,
-        "con_id": 9,
-        "type": "latching",
-        "icon": {
-          "id": 9,
-          "title": "Injector Valve",
-          "slug": "iv_1",
-          "img": "images/functions/iv_1_off.svg",
-          "created_at": "2022-10-11 10:47:59",
-          "updated_at": "2022-10-13 14:24:52"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Injector Valve"
-      },
-      "f11": {
-        "number": 11,
-        "con_id": 6,
-        "type": "latching",
-        "icon": {
-          "id": 6,
-          "title": "Cylinder Cock",
-          "slug": "cc_1",
-          "img": "images/functions/cc_1_off.svg",
-          "created_at": "2022-10-11 10:45:36",
-          "updated_at": "2022-10-13 14:37:54"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Cylinder Cock"
-      },
-      "f12": {
-        "number": 12,
-        "con_id": 5,
-        "type": "momentary",
-        "icon": {
-          "id": 5,
-          "title": "Brake",
-          "slug": "bs_1",
-          "img": "images/functions/bs_1_off.svg",
-          "created_at": "2022-10-11 10:45:10",
-          "updated_at": "2022-10-13 14:38:25"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Brake"
-      },
-      "f13": {
-        "number": 13,
-        "con_id": 16,
-        "type": "latching",
-        "icon": {
-          "id": 16,
-          "title": "Blower",
-          "slug": "blwr_1",
-          "img": "images/functions/blwr_1_off.svg",
-          "created_at": "2022-10-11 10:51:16",
-          "updated_at": "2022-10-13 14:21:26"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Blower"
-      },
-      "f14": {
-        "number": 14,
-        "con_id": 11,
-        "type": "momentary",
-        "icon": {
-          "id": 11,
-          "title": "Guards Whistle",
-          "slug": "gw_1",
-          "img": "images/functions/gw_1_off.svg",
-          "created_at": "2022-10-11 10:49:01",
-          "updated_at": "2022-10-13 14:36:12"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Guards Whistle"
-      },
-      "f15": {
-        "number": 15,
-        "con_id": 12,
-        "type": "momentary",
-        "icon": {
-          "id": 12,
-          "title": "Coupling",
-          "slug": "cpl_1",
-          "img": "images/functions/cpl_1_off.svg",
-          "created_at": "2022-10-11 10:49:31",
-          "updated_at": "2022-10-13 14:24:23"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Coupling"
-      },
-      "f16": {
-        "number": 16,
-        "con_id": 18,
-        "type": "latching",
-        "icon": {
-          "id": 18,
-          "title": "Fireman's Breakfast",
-          "slug": "fb_1",
-          "img": "images/functions/fb_1_off.svg",
-          "created_at": "2022-10-11 10:52:15",
-          "updated_at": "2022-10-13 14:19:38"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Fireman's Breakfast"
-      },
-      "f17": {
-        "number": 17,
-        "con_id": 19,
-        "type": "latching",
-        "icon": {
-          "id": 19,
-          "title": "Chufing/Coasting Sound",
-          "slug": "ccs_1",
-          "img": "images/functions/ccs_1_off.svg",
-          "created_at": "2022-10-11 10:52:42",
-          "updated_at": "2022-10-13 14:19:00"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Chufing/Coasting Sound"
-      },
-      "f18": {
-        "number": 18,
-        "con_id": 22,
-        "type": "latching",
-        "icon": {
-          "id": 22,
-          "title": "Aux Lighting",
-          "slug": "auxl_1",
-          "img": "images/functions/auxl_1_off.svg",
-          "created_at": "2022-10-11 10:53:59",
-          "updated_at": "2022-10-13 14:17:11"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Aux Lighting"
-      },
-      "f19": {
-        "number": 19,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f20": {
-        "number": 20,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
-      },
-      "f21": {
-        "number": 21,
-        "con_id": 3,
-        "type": "momentary",
-        "icon": {
-          "id": 3,
-          "title": "Multiple Whistle UK",
-          "slug": "mw_1",
-          "img": "images/functions/mw_1_off.svg",
-          "created_at": "2022-10-11 10:43:43",
-          "updated_at": "2022-10-13 14:39:24"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle UK"
-      },
-      "f22": {
-        "number": 22,
-        "con_id": 4,
-        "type": "momentary",
-        "icon": {
-          "id": 4,
-          "title": "Multiple Whistle USA/AU",
-          "slug": "mw_2",
-          "img": "images/functions/mw_2_off.svg",
-          "created_at": "2022-10-11 10:44:34",
-          "updated_at": "2022-10-13 14:38:51"
-        },
-        "afc": {
-          "stationary": null,
-          "running": null
-        },
-        "name": "Multiple Whistle USA/AU"
       }
     },
     "cv_values": [
